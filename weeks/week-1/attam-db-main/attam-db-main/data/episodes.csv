@@ -1,0 +1,792 @@
+,id,nom_serie,numero_episode,numero_saison,date_diffusion,pays,chaine_diffusion,url
+0,1,Arthdal Chronicles,8,2,01-10-2023,Corée du Sud,tvN,episode08-411009-01102023-saison2-Arthdal-Chronicles.html
+1,2,Behind Your Touch,16,1,01-10-2023,Etats-Unis,Netflix,episode16-408686-01102023-saison1-Behind-Your-Touch.html
+2,3,Bob's Burgers,1,14,01-10-2023,Etats-Unis,Fox,episode01-408094-01102023-saison14-Bob-s-Burgers.html
+3,4,Entre Tierras,4,1,01-10-2023,Espagne,ATRESplayer,episode04-410970-01102023-saison1-Entre-Tierras.html
+4,5,Family Guy,1,22,01-10-2023,Etats-Unis,Fox,episode01-408096-01102023-saison22-Family-Guy.html
+5,6,Heartland (CA),1,17,01-10-2023,Canada,CBC,episode01-410271-01102023-saison17-Heartland-(CA).html
+6,7,Krapopolis,3,1,01-10-2023,Etats-Unis,Fox,episode03-408093-01102023-saison1-Krapopolis.html
+7,8,Last Week Tonight With John Oliver,11,10,01-10-2023,Etats-Unis,HBO,episode11-410868-01102023-saison10-Last-Week-Tonight-With-John-Oliver.html
+8,9,Les Mystères de l'amour,8,33,01-10-2023,France,TMC,episode08-410185-01102023-saison33-Les-Mysteres-de-l-amour.html
+9,10,SkyMed,1,2,01-10-2023,Canada,CBC Gem,episode01-410144-01102023-saison2-SkyMed.html
+10,11,The Simpsons,1,35,01-10-2023,Etats-Unis,Fox,episode01-408095-01102023-saison35-The-Simpsons.html
+11,12,The Villains of Valley View,15,2,01-10-2023,Etats-Unis,Disney Channel,episode15-410803-01102023-saison2-The-Villains-of-Valley-View.html
+12,13,The Walking Dead: Daryl Dixon,4,1,01-10-2023,Etats-Unis,AMC,episode04-409847-01102023-saison1-The-Walking-Dead-Daryl-Dixon.html
+13,14,When Calls the Heart,10,10,01-10-2023,Etats-Unis,Hallmark Channel,episode10-407539-01102023-saison10-When-Calls-the-Heart.html
+14,15,5è Rang,4,6,02-10-2023,Canada,Radio Canada,episode04-410913-02102023-saison6-5e-Rang.html
+15,16,66-5,5,1,02-10-2023,France,Canal+,episode05-410553-02102023-saison1-66-5.html
+16,17,66-5,6,1,02-10-2023,France,Canal+,episode06-410554-02102023-saison1-66-5.html
+17,18,Alertes,16,3,02-10-2023,Canada,TVA,episode16-410912-02102023-saison3-Alertes.html
+18,19,American Dad!,14,19,02-10-2023,Etats-Unis,TBS (US),episode14-410594-02102023-saison19-American-Dad.html
+19,20,Demain nous appartient,31,7,02-10-2023,France,TF1,episode31-410920-02102023-saison7-Demain-nous-appartient.html
+20,21,Familie Bundschuh,8,1,02-10-2023,Allemagne,ZDF,episode08-409953-02102023-saison1-Familie-Bundschuh.html
+21,22,Ici tout commence,26,4,02-10-2023,France,TF1,episode26-410915-02102023-saison4-Ici-tout-commence.html
+22,23,Infiltré(e),3,1,02-10-2023,France,France 2,episode03-410718-02102023-saison1-Infiltre(e).html
+23,24,Infiltré(e),4,1,02-10-2023,France,France 2,episode04-410719-02102023-saison1-Infiltre(e).html
+24,25,Kamikaze (NOR),3,1,02-10-2023,Suède,Discovery +,episode03-410738-02102023-saison1-Kamikaze-(NOR).html
+25,26,Murdoch Mysteries,1,17,02-10-2023,Canada,Citytv,episode01-410145-02102023-saison17-Murdoch-Mysteries.html
+26,27,Narvalo,3,3,02-10-2023,France,Canal+,episode03-410627-02102023-saison3-Narvalo.html
+27,28,Narvalo,4,3,02-10-2023,France,Canal+,episode04-410628-02102023-saison3-Narvalo.html
+28,29,Pure Boxer,13,1,02-10-2023,Corée du Sud,KBS2,episode13-409147-02102023-saison1-Pure-Boxer.html
+29,30,SOKO Potsdam,2,6,02-10-2023,Allemagne,ZDF,episode02-410907-02102023-saison6-SOKO-Potsdam.html
+30,31,The Irrational,2,1,02-10-2023,Etats-Unis,NBC,episode02-409167-02102023-saison1-The-Irrational.html
+31,32,The Long Shadow,2,1,02-10-2023,Royaume-Uni,ITVX,episode02-410620-02102023-saison1-The-Long-Shadow.html
+32,33,The Long Shadow,3,1,02-10-2023,Royaume-Uni,ITVX,episode03-410816-02102023-saison1-The-Long-Shadow.html
+33,34,The Long Shadow,4,1,02-10-2023,Royaume-Uni,ITVX,episode04-410897-02102023-saison1-The-Long-Shadow.html
+34,35,The Long Shadow,5,1,02-10-2023,Royaume-Uni,ITVX,episode05-410898-02102023-saison1-The-Long-Shadow.html
+35,36,The Long Shadow,6,1,02-10-2023,Royaume-Uni,ITVX,episode06-410899-02102023-saison1-The-Long-Shadow.html
+36,37,The Long Shadow,7,1,02-10-2023,Royaume-Uni,ITVX,episode07-410900-02102023-saison1-The-Long-Shadow.html
+37,38,Un Si Grand Soleil,23,6,02-10-2023,France,France 2,episode23-410925-02102023-saison6-Un-Si-Grand-Soleil.html
+38,39,Ví?az,5,1,02-10-2023,Etats-Unis,Showtime,episode05-410696-02102023-saison1-Viaz.html
+39,40,Ahsoka,8,1,03-10-2023,Etats-Unis,Disney+,episode08-406770-03102023-saison1-Ahsoka.html
+40,41,Alexandra Ehle,1,4,03-10-2023,France,France 3,episode01-410257-03102023-saison4-Alexandra-Ehle.html
+41,42,À coeur battant,4,2,03-10-2023,Canada,Radio Canada,episode04-410929-03102023-saison2-A-coeur-battant.html
+42,43,Club Soly,4,3,03-10-2023,Canada,Noovo.ca,episode04-410931-03102023-saison3-Club-Soly.html
+43,44,Demain nous appartient,32,7,03-10-2023,France,TF1,episode32-410921-03102023-saison7-Demain-nous-appartient.html
+44,45,Found,1,1,03-10-2023,Etats-Unis,NBC,episode01-408424-03102023-saison1-Found.html
+45,46,Ici tout commence,27,4,03-10-2023,France,TF1,episode27-410916-03102023-saison4-Ici-tout-commence.html
+46,47,Only Murders in The Building,10,3,03-10-2023,Etats-Unis,Hulu,episode10-406259-03102023-saison3-Only-Murders-in-The-Building.html
+47,48,Un Si Grand Soleil,24,6,03-10-2023,France,France 2,episode24-410926-03102023-saison6-Un-Si-Grand-Soleil.html
+48,49,Aller simple,4,2,04-10-2023,Canada,Noovo.ca,episode04-410649-04102023-saison2-Aller-simple.html
+49,50,American Horror Story,3,12,04-10-2023,Etats-Unis,FX,episode03-410183-04102023-saison12-American-Horror-Story.html
+50,51,Archer (2009),7,14,04-10-2023,Etats-Unis,FXX,episode07-408904-04102023-saison14-Archer-(2009).html
+51,52,Assisted Living,20,4,04-10-2023,Etats-Unis,BET,episode20-410621-04102023-saison4-Assisted-Living.html
+52,53,Assisted Living,21,4,04-10-2023,Etats-Unis,BET,episode21-410622-04102023-saison4-Assisted-Living.html
+53,54,Assisted Living,22,4,04-10-2023,Etats-Unis,BET,episode22-410623-04102023-saison4-Assisted-Living.html
+54,55,Bones of Crows,3,1,04-10-2023,Canada,CBC,episode03-410642-04102023-saison1-Bones-of-Crows.html
+55,56,Children Ruin Everything,2,3,04-10-2023,Canada,CTV,episode02-410794-04102023-saison3-Children-Ruin-Everything.html
+56,57,Chucky,1,3,04-10-2023,Etats-Unis,Syfy,episode01-409037-04102023-saison3-Chucky.html
+57,58,Demain nous appartient,33,7,04-10-2023,France,TF1,episode33-410922-04102023-saison7-Demain-nous-appartient.html
+58,59,Hans River Police,7,1,04-10-2023,Etats-Unis,Disney+,episode07-409972-04102023-saison1-Hans-River-Police.html
+59,60,Hans River Police,8,1,04-10-2023,Etats-Unis,Disney+,episode08-409973-04102023-saison1-Hans-River-Police.html
+60,61,Hudson & Rex,1,6,04-10-2023,Canada,Citytv,episode01-410258-04102023-saison6-Hudson--Rex.html
+61,62,Ici tout commence,28,4,04-10-2023,France,TF1,episode28-410917-04102023-saison4-Ici-tout-commence.html
+62,63,Invasion (2021),7,2,04-10-2023,Etats-Unis,Apple TV+,episode07-407971-04102023-saison2-Invasion-(2021).html
+63,64,Magnum P.I. (2018),11,5,04-10-2023,Etats-Unis,NBC,episode11-409152-04102023-saison5-Magnum-PI-(2018).html
+64,65,Quantum Leap (2022),1,2,04-10-2023,Etats-Unis,NBC,episode01-408633-04102023-saison2-Quantum-Leap-(2022).html
+65,66,RFDS,8,2,04-10-2023,Australie,Seven,episode08-410739-04102023-saison2-RFDS.html
+66,67,Robyn Hood,2,1,04-10-2023,Canada,Global,episode02-410949-04102023-saison1-Robyn-Hood.html
+67,68,SurrealEstate,1,2,04-10-2023,Etats-Unis,Syfy,episode01-409249-04102023-saison2-SurrealEstate.html
+68,69,The Morning Show,5,3,04-10-2023,Etats-Unis,Apple TV+,episode05-407700-04102023-saison3-The-Morning-Show.html
+69,70,The Worst of Evil,4,1,04-10-2023,Etats-Unis,Disney+,episode04-410766-04102023-saison1-The-Worst-of-Evil.html
+70,71,The Worst of Evil,5,1,04-10-2023,Etats-Unis,Disney+,episode05-410767-04102023-saison1-The-Worst-of-Evil.html
+71,72,Un Si Grand Soleil,25,6,04-10-2023,France,France 2,episode25-410927-04102023-saison6-Un-Si-Grand-Soleil.html
+72,73,Young Dylan,5,4,04-10-2023,Etats-Unis,Nickelodeon,episode05-410578-04102023-saison4-Young-Dylan.html
+73,74,All Creatures Great and Small (2020),1,4,05-10-2023,Royaume-Uni,Channel 5,episode01-410607-05102023-saison4-All-Creatures-Great-and-Small-(2020).html
+74,75,À La Carte,4,2,05-10-2023,Etats-Unis,ALLBLK,episode04-410517-05102023-saison2-A-La-Carte.html
+75,76,Demain nous appartient,34,7,05-10-2023,France,TF1,episode34-410923-05102023-saison7-Demain-nous-appartient.html
+76,77,Everything Now,1,1,05-10-2023,Etats-Unis,Netflix,episode01-410218-05102023-saison1-Everything-Now.html
+77,78,Everything Now,2,1,05-10-2023,Etats-Unis,Netflix,episode02-410890-05102023-saison1-Everything-Now.html
+78,79,Everything Now,3,1,05-10-2023,Etats-Unis,Netflix,episode03-410891-05102023-saison1-Everything-Now.html
+79,80,Everything Now,4,1,05-10-2023,Etats-Unis,Netflix,episode04-410892-05102023-saison1-Everything-Now.html
+80,81,Everything Now,5,1,05-10-2023,Etats-Unis,Netflix,episode05-410893-05102023-saison1-Everything-Now.html
+81,82,Everything Now,6,1,05-10-2023,Etats-Unis,Netflix,episode06-410894-05102023-saison1-Everything-Now.html
+82,83,Everything Now,7,1,05-10-2023,Etats-Unis,Netflix,episode07-410895-05102023-saison1-Everything-Now.html
+83,84,Everything Now,8,1,05-10-2023,Etats-Unis,Netflix,episode08-410896-05102023-saison1-Everything-Now.html
+84,85,Ici tout commence,29,4,05-10-2023,France,TF1,episode29-410918-05102023-saison4-Ici-tout-commence.html
+85,86,Les révoltés,5,1,05-10-2023,Canada,Club illico ,episode05-411201-05102023-saison1-Les-revoltes.html
+86,87,Les révoltés,6,1,05-10-2023,Canada,Club illico ,episode06-411202-05102023-saison1-Les-revoltes.html
+87,88,Loki,1,2,05-10-2023,Etats-Unis,Disney+,episode01-410901-05102023-saison2-Loki.html
+88,89,Lupin,1,3,05-10-2023,Etats-Unis,Netflix,episode01-404379-05102023-saison3-Lupin.html
+89,90,Lupin,2,3,05-10-2023,Etats-Unis,Netflix,episode02-404380-05102023-saison3-Lupin.html
+90,91,Lupin,3,3,05-10-2023,Etats-Unis,Netflix,episode03-404381-05102023-saison3-Lupin.html
+91,92,Lupin,4,3,05-10-2023,Etats-Unis,Netflix,episode04-404382-05102023-saison3-Lupin.html
+92,93,Lupin,5,3,05-10-2023,Etats-Unis,Netflix,episode05-404383-05102023-saison3-Lupin.html
+93,94,Lupin,6,3,05-10-2023,Etats-Unis,Netflix,episode06-404384-05102023-saison3-Lupin.html
+94,95,Lupin,7,3,05-10-2023,Etats-Unis,Netflix,episode07-404385-05102023-saison3-Lupin.html
+95,96,Our Flag Means Death,1,2,05-10-2023,Etats-Unis,HBO Max,episode01-409662-05102023-saison2-Our-Flag-Means-Death.html
+96,97,Our Flag Means Death,2,2,05-10-2023,Etats-Unis,HBO Max,episode02-409663-05102023-saison2-Our-Flag-Means-Death.html
+97,98,Our Flag Means Death,3,2,05-10-2023,Etats-Unis,HBO Max,episode03-409664-05102023-saison2-Our-Flag-Means-Death.html
+98,99,Rictus,7,1,05-10-2023,France,OCS,episode07-409050-05102023-saison1-Rictus.html
+99,100,Rictus,8,1,05-10-2023,France,OCS,episode08-409051-05102023-saison1-Rictus.html
+100,101,Rictus,9,1,05-10-2023,France,OCS,episode09-409052-05102023-saison1-Rictus.html
+101,102,Sous contrôle,1,1,05-10-2023,France,Arte,episode01-408741-05102023-saison1-Sous-controle.html
+102,103,Sous contrôle,2,1,05-10-2023,France,Arte,episode02-411048-05102023-saison1-Sous-controle.html
+103,104,Sous contrôle,3,1,05-10-2023,France,Arte,episode03-411049-05102023-saison1-Sous-controle.html
+104,105,Sous contrôle,4,1,05-10-2023,France,Arte,episode04-411050-05102023-saison1-Sous-controle.html
+105,106,Sous contrôle,5,1,05-10-2023,France,Arte,episode05-411051-05102023-saison1-Sous-controle.html
+106,107,Sous contrôle,6,1,05-10-2023,France,Arte,episode06-411052-05102023-saison1-Sous-controle.html
+107,108,Star Trek: Lower Decks,6,4,05-10-2023,Etats-Unis,Paramount+,episode06-409760-05102023-saison4-Star-Trek-Lower-Decks.html
+108,109,Tacoma FD,12,4,05-10-2023,Etats-Unis,truTV,episode12-410643-05102023-saison4-Tacoma-FD.html
+109,110,Tacoma FD,13,4,05-10-2023,Etats-Unis,truTV,episode13-410644-05102023-saison4-Tacoma-FD.html
+110,111,Young Love,9,1,05-10-2023,Etats-Unis,HBO Max,episode09-410862-05102023-saison1-Young-Love.html
+111,112,Young Love,10,1,05-10-2023,Etats-Unis,HBO Max,episode10-410863-05102023-saison1-Young-Love.html
+112,113,Young Love,11,1,05-10-2023,Etats-Unis,HBO Max,episode11-410864-05102023-saison1-Young-Love.html
+113,114,Young Love,12,1,05-10-2023,Etats-Unis,HBO Max,episode12-410865-05102023-saison1-Young-Love.html
+114,115,Billions,9,7,06-10-2023,Etats-Unis,Showtime,episode09-409168-06102023-saison7-Billions.html
+115,116,Demain nous appartient,35,7,06-10-2023,France,TF1,episode35-410924-06102023-saison7-Demain-nous-appartient.html
+116,117,Familjen Andersson,8,1,06-10-2023,Suède,SVT Play,episode08-409539-06102023-saison1-Familjen-Andersson.html
+117,118,Gaslight,4,1,06-10-2023,Suède,SVT Play,episode04-410680-06102023-saison1-Gaslight.html
+118,119,Gaslight,5,1,06-10-2023,Suède,SVT Play,episode05-410681-06102023-saison1-Gaslight.html
+119,120,Gaslight,6,1,06-10-2023,Suède,SVT Play,episode06-410682-06102023-saison1-Gaslight.html
+120,121,Gen V,4,1,06-10-2023,Etats-Unis,Prime Video,episode04-408428-06102023-saison1-Gen-V.html
+121,122,Ghosts (UK),1,5,06-10-2023,Royaume-Uni,BBC One,episode01-410534-06102023-saison5-Ghosts-(UK).html
+122,123,Ghosts (UK),2,5,06-10-2023,Royaume-Uni,BBC One,episode02-410722-06102023-saison5-Ghosts-(UK).html
+123,124,Ghosts (UK),3,5,06-10-2023,Royaume-Uni,BBC One,episode03-410723-06102023-saison5-Ghosts-(UK).html
+124,125,Ghosts (UK),4,5,06-10-2023,Royaume-Uni,BBC One,episode04-410724-06102023-saison5-Ghosts-(UK).html
+125,126,Ghosts (UK),5,5,06-10-2023,Royaume-Uni,BBC One,episode05-410725-06102023-saison5-Ghosts-(UK).html
+126,127,Ghosts (UK),6,5,06-10-2023,Royaume-Uni,BBC One,episode06-410726-06102023-saison5-Ghosts-(UK).html
+127,128,Huset,6,1,06-10-2023,Danemark,DR1,episode06-410716-06102023-saison1-Huset.html
+128,129,Ici tout commence,30,4,06-10-2023,France,TF1,episode30-410919-06102023-saison4-Ici-tout-commence.html
+129,130,Last Exit Schinkenstraße,1,1,06-10-2023,Etats-Unis,Prime Video,episode01-411018-06102023-saison1-Last-Exit-Schinkenstraße.html
+130,131,Last Exit Schinkenstraße,2,1,06-10-2023,Etats-Unis,Prime Video,episode02-411019-06102023-saison1-Last-Exit-Schinkenstraße.html
+131,132,Last Exit Schinkenstraße,3,1,06-10-2023,Etats-Unis,Prime Video,episode03-411020-06102023-saison1-Last-Exit-Schinkenstraße.html
+132,133,Last Exit Schinkenstraße,4,1,06-10-2023,Etats-Unis,Prime Video,episode04-411021-06102023-saison1-Last-Exit-Schinkenstraße.html
+133,134,Last Exit Schinkenstraße,5,1,06-10-2023,Etats-Unis,Prime Video,episode05-411022-06102023-saison1-Last-Exit-Schinkenstraße.html
+134,135,Last Exit Schinkenstraße,6,1,06-10-2023,Etats-Unis,Prime Video,episode06-411023-06102023-saison1-Last-Exit-Schinkenstraße.html
+135,136,Power Book IV: Force,6,2,06-10-2023,Etats-Unis,Starz,episode06-410815-06102023-saison2-Power-Book-IV-Force.html
+136,137,Shoresy,3,2,06-10-2023,Canada,CraveTV,episode03-410866-06102023-saison2-Shoresy.html
+137,138,SOKO Leipzig,7,24,06-10-2023,Allemagne,ZDF,episode07-410561-06102023-saison24-SOKO-Leipzig.html
+138,139,Solsidan,3,8,06-10-2023,Suède,TV4,episode03-410858-06102023-saison8-Solsidan.html
+139,140,Still Up,5,1,06-10-2023,Etats-Unis,Apple TV+,episode05-408946-06102023-saison1-Still-Up.html
+140,141,The Changeling,7,1,06-10-2023,Etats-Unis,Apple TV+,episode07-408182-06102023-saison1-The-Changeling.html
+141,142,The Continental: From The World Of John Wick,3,1,06-10-2023,Etats-Unis,Peacock,episode03-408644-06102023-saison1-The-Continental-From-The-World-Of-John-Wick.html
+142,143,The Wheel of Time,8,2,06-10-2023,Etats-Unis,Prime Video,episode08-408196-06102023-saison2-The-Wheel-of-Time.html
+143,144,Transplant,1,4,06-10-2023,Canada,CTV,episode01-408389-06102023-saison4-Transplant.html
+144,145,Un Si Grand Soleil,26,6,06-10-2023,France,France 2,episode26-410928-06102023-saison6-Un-Si-Grand-Soleil.html
+145,146,All Rise,14,3,07-10-2023,Etats-Unis,OWN,episode14-410327-07102023-saison3-All-Rise.html
+146,147,Arthdal Chronicles,9,2,07-10-2023,Corée du Sud,tvN,episode09-411010-07102023-saison2-Arthdal-Chronicles.html
+147,148,Boomer,6,1,07-10-2023,Belgique,Één,episode06-409827-07102023-saison1-Boomer.html
+148,149,Johnson,10,3,07-10-2023,Etats-Unis,Bounce TV,episode10-410645-07102023-saison3-Johnson.html
+149,150,Arthdal Chronicles,10,2,08-10-2023,Corée du Sud,tvN,episode10-411011-08102023-saison2-Arthdal-Chronicles.html
+150,151,Bob's Burgers,2,14,08-10-2023,Etats-Unis,Fox,episode02-410729-08102023-saison14-Bob-s-Burgers.html
+151,152,Entre Tierras,5,1,08-10-2023,Espagne,ATRESplayer,episode05-410971-08102023-saison1-Entre-Tierras.html
+152,153,Family Guy,2,22,08-10-2023,Etats-Unis,Fox,episode02-410730-08102023-saison22-Family-Guy.html
+153,154,Heartland (CA),2,17,08-10-2023,Canada,CBC,episode02-410535-08102023-saison17-Heartland-(CA).html
+154,155,Krapopolis,4,1,08-10-2023,Etats-Unis,Fox,episode04-410328-08102023-saison1-Krapopolis.html
+155,156,Last Week Tonight With John Oliver,12,10,08-10-2023,Etats-Unis,HBO,episode12-411014-08102023-saison10-Last-Week-Tonight-With-John-Oliver.html
+156,157,Les Mystères de l'amour,9,33,08-10-2023,France,TMC,episode09-410595-08102023-saison33-Les-Mysteres-de-l-amour.html
+157,158,SkyMed,2,2,08-10-2023,Canada,CBC Gem,episode02-410740-08102023-saison2-SkyMed.html
+158,159,The Simpsons,2,35,08-10-2023,Etats-Unis,Fox,episode02-410728-08102023-saison35-The-Simpsons.html
+159,160,The Walking Dead: Daryl Dixon,5,1,08-10-2023,Etats-Unis,AMC,episode05-409848-08102023-saison1-The-Walking-Dead-Daryl-Dixon.html
+160,161,The Winter King,6,1,08-10-2023,Royaume-Uni,ITVX,episode06-409132-08102023-saison1-The-Winter-King.html
+161,162,When Calls the Heart,11,10,08-10-2023,Etats-Unis,Hallmark Channel,episode11-407540-08102023-saison10-When-Calls-the-Heart.html
+162,163,5è Rang,5,6,09-10-2023,Canada,Radio Canada,episode05-410914-09102023-saison6-5e-Rang.html
+163,164,66-5,7,1,09-10-2023,France,Canal+,episode07-410555-09102023-saison1-66-5.html
+164,165,66-5,8,1,09-10-2023,France,Canal+,episode08-410556-09102023-saison1-66-5.html
+165,166,Alertes,17,3,09-10-2023,Canada,TVA,episode17-411030-09102023-saison3-Alertes.html
+166,167,Demain nous appartient,36,7,09-10-2023,France,TF1,episode36-411033-09102023-saison7-Demain-nous-appartient.html
+167,168,Harry Wild,1,2,09-10-2023,Etats-Unis,Acorn TV,episode01-410199-09102023-saison2-Harry-Wild.html
+168,169,Harry Wild,2,2,09-10-2023,Etats-Unis,Acorn TV,episode02-410200-09102023-saison2-Harry-Wild.html
+169,170,Ici tout commence,31,4,09-10-2023,France,TF1,episode31-411038-09102023-saison4-Ici-tout-commence.html
+170,171,Infiltré(e),5,1,09-10-2023,France,France 2,episode05-410720-09102023-saison1-Infiltre(e).html
+171,172,Infiltré(e),6,1,09-10-2023,France,France 2,episode06-410721-09102023-saison1-Infiltre(e).html
+172,173,Kamikaze (NOR),4,1,09-10-2023,Suède,Discovery +,episode04-411031-09102023-saison1-Kamikaze-(NOR).html
+173,174,Mentiras pasajeras,1,1,09-10-2023,Etats-Unis,Paramount+,episode01-410619-09102023-saison1-Mentiras-pasajeras.html
+174,175,Murdoch Mysteries,2,17,09-10-2023,Canada,Citytv,episode02-410605-09102023-saison17-Murdoch-Mysteries.html
+175,176,Narvalo,5,3,09-10-2023,France,Canal+,episode05-410629-09102023-saison3-Narvalo.html
+176,177,SOKO Potsdam,3,6,09-10-2023,Allemagne,ZDF,episode03-410908-09102023-saison6-SOKO-Potsdam.html
+177,178,The Irrational,3,1,09-10-2023,Etats-Unis,NBC,episode03-409679-09102023-saison1-The-Irrational.html
+178,179,Un Si Grand Soleil,27,6,09-10-2023,France,France 2,episode27-411043-09102023-saison6-Un-Si-Grand-Soleil.html
+179,180,Ví?az,6,1,09-10-2023,Etats-Unis,Showtime,episode06-410697-09102023-saison1-Viaz.html
+180,181,Alexandra Ehle,2,4,10-10-2023,France,France 3,episode02-405395-10102023-saison4-Alexandra-Ehle.html
+181,182,À coeur battant,5,2,10-10-2023,Canada,Radio Canada,episode05-410930-10102023-saison2-A-coeur-battant.html
+182,183,Club Soly,5,3,10-10-2023,Canada,Noovo.ca,episode05-411047-10102023-saison3-Club-Soly.html
+183,184,Demain nous appartient,37,7,10-10-2023,France,TF1,episode37-411034-10102023-saison7-Demain-nous-appartient.html
+184,185,Found,2,1,10-10-2023,Etats-Unis,NBC,episode02-409591-10102023-saison1-Found.html
+185,186,Ici tout commence,32,4,10-10-2023,France,TF1,episode32-411039-10102023-saison4-Ici-tout-commence.html
+186,187,4EVER,1,1,11-10-2023,Etats-Unis,Disney+,episode01-411025-11102023-saison1-4EVER.html
+187,188,4EVER,2,1,11-10-2023,Etats-Unis,Disney+,episode02-411026-11102023-saison1-4EVER.html
+188,189,4EVER,3,1,11-10-2023,Etats-Unis,Disney+,episode03-411027-11102023-saison1-4EVER.html
+189,190,4EVER,4,1,11-10-2023,Etats-Unis,Disney+,episode04-411028-11102023-saison1-4EVER.html
+190,191,4EVER,5,1,11-10-2023,Etats-Unis,Disney+,episode05-411029-11102023-saison1-4EVER.html
+191,192,Aller simple,5,2,11-10-2023,Canada,Noovo.ca,episode05-410650-11102023-saison2-Aller-simple.html
+192,193,Aller simple,6,2,11-10-2023,Canada,Noovo.ca,episode06-411054-11102023-saison2-Aller-simple.html
+193,194,American Horror Story,4,12,11-10-2023,Etats-Unis,FX,episode04-410339-11102023-saison12-American-Horror-Story.html
+194,195,Archer (2009),8,14,11-10-2023,Etats-Unis,FXX,episode08-408905-11102023-saison14-Archer-(2009).html
+195,196,Bones of Crows,4,1,11-10-2023,Canada,CBC,episode04-410782-11102023-saison1-Bones-of-Crows.html
+196,197,Children Ruin Everything,3,3,11-10-2023,Canada,CTV,episode03-410932-11102023-saison3-Children-Ruin-Everything.html
+197,198,Chucky,2,3,11-10-2023,Etats-Unis,Syfy,episode02-409115-11102023-saison3-Chucky.html
+198,199,Cooper's Bar,1,2,11-10-2023,Etats-Unis,AMC,episode01-410431-11102023-saison2-Cooper-s-Bar.html
+199,200,Cooper's Bar,2,2,11-10-2023,Etats-Unis,AMC,episode02-411062-11102023-saison2-Cooper-s-Bar.html
+200,201,Demain nous appartient,38,7,11-10-2023,France,TF1,episode38-411035-11102023-saison7-Demain-nous-appartient.html
+201,202,Hans River Police,9,1,11-10-2023,Etats-Unis,Disney+,episode09-409974-11102023-saison1-Hans-River-Police.html
+202,203,Hans River Police,10,1,11-10-2023,Etats-Unis,Disney+,episode10-409975-11102023-saison1-Hans-River-Police.html
+203,204,Hudson & Rex,2,6,11-10-2023,Canada,Citytv,episode02-410259-11102023-saison6-Hudson--Rex.html
+204,205,Ici tout commence,33,4,11-10-2023,France,TF1,episode33-411040-11102023-saison4-Ici-tout-commence.html
+205,206,Invasion (2021),8,2,11-10-2023,Etats-Unis,Apple TV+,episode08-407972-11102023-saison2-Invasion-(2021).html
+206,207,La Mesias,1,1,11-10-2023,Espagne,Moviestar+,episode01-410340-11102023-saison1-La-Mesias.html
+207,208,La Mesias,2,1,11-10-2023,Espagne,Moviestar+,episode02-410544-11102023-saison1-La-Mesias.html
+208,209,Magnum P.I. (2018),12,5,11-10-2023,Etats-Unis,NBC,episode12-410783-11102023-saison5-Magnum-PI-(2018).html
+209,210,Nada,1,1,11-10-2023,Espagne,Star+,episode01-410264-11102023-saison1-Nada.html
+210,211,Nada,2,1,11-10-2023,Espagne,Star+,episode02-411069-11102023-saison1-Nada.html
+211,212,Nada,3,1,11-10-2023,Espagne,Star+,episode03-411070-11102023-saison1-Nada.html
+212,213,Nada,4,1,11-10-2023,Espagne,Star+,episode04-411071-11102023-saison1-Nada.html
+213,214,Nada,5,1,11-10-2023,Espagne,Star+,episode05-411072-11102023-saison1-Nada.html
+214,215,Pacto de Silencio,1,1,11-10-2023,Etats-Unis,Netflix,episode01-410272-11102023-saison1-Pacto-de-Silencio.html
+215,216,Pacto de Silencio,2,1,11-10-2023,Etats-Unis,Netflix,episode02-411073-11102023-saison1-Pacto-de-Silencio.html
+216,217,Pacto de Silencio,3,1,11-10-2023,Etats-Unis,Netflix,episode03-411074-11102023-saison1-Pacto-de-Silencio.html
+217,218,Pacto de Silencio,4,1,11-10-2023,Etats-Unis,Netflix,episode04-411075-11102023-saison1-Pacto-de-Silencio.html
+218,219,Pacto de Silencio,5,1,11-10-2023,Etats-Unis,Netflix,episode05-411076-11102023-saison1-Pacto-de-Silencio.html
+219,220,Pacto de Silencio,6,1,11-10-2023,Etats-Unis,Netflix,episode06-411077-11102023-saison1-Pacto-de-Silencio.html
+220,221,Pacto de Silencio,7,1,11-10-2023,Etats-Unis,Netflix,episode07-411078-11102023-saison1-Pacto-de-Silencio.html
+221,222,Pacto de Silencio,8,1,11-10-2023,Etats-Unis,Netflix,episode08-411079-11102023-saison1-Pacto-de-Silencio.html
+222,223,Pacto de Silencio,9,1,11-10-2023,Etats-Unis,Netflix,episode09-411080-11102023-saison1-Pacto-de-Silencio.html
+223,224,Pacto de Silencio,10,1,11-10-2023,Etats-Unis,Netflix,episode10-411081-11102023-saison1-Pacto-de-Silencio.html
+224,225,Pacto de Silencio,11,1,11-10-2023,Etats-Unis,Netflix,episode11-411082-11102023-saison1-Pacto-de-Silencio.html
+225,226,Pacto de Silencio,12,1,11-10-2023,Etats-Unis,Netflix,episode12-411083-11102023-saison1-Pacto-de-Silencio.html
+226,227,Pacto de Silencio,13,1,11-10-2023,Etats-Unis,Netflix,episode13-411084-11102023-saison1-Pacto-de-Silencio.html
+227,228,Pacto de Silencio,14,1,11-10-2023,Etats-Unis,Netflix,episode14-411085-11102023-saison1-Pacto-de-Silencio.html
+228,229,Pacto de Silencio,15,1,11-10-2023,Etats-Unis,Netflix,episode15-411086-11102023-saison1-Pacto-de-Silencio.html
+229,230,Pacto de Silencio,16,1,11-10-2023,Etats-Unis,Netflix,episode16-411087-11102023-saison1-Pacto-de-Silencio.html
+230,231,Pacto de Silencio,17,1,11-10-2023,Etats-Unis,Netflix,episode17-411088-11102023-saison1-Pacto-de-Silencio.html
+231,232,Pacto de Silencio,18,1,11-10-2023,Etats-Unis,Netflix,episode18-411089-11102023-saison1-Pacto-de-Silencio.html
+232,233,Quantum Leap (2022),2,2,11-10-2023,Etats-Unis,NBC,episode02-409735-11102023-saison2-Quantum-Leap-(2022).html
+233,234,Robyn Hood,3,1,11-10-2023,Canada,Global,episode03-410950-11102023-saison1-Robyn-Hood.html
+234,235,SurrealEstate,2,2,11-10-2023,Etats-Unis,Syfy,episode02-410804-11102023-saison2-SurrealEstate.html
+235,236,The Morning Show,6,3,11-10-2023,Etats-Unis,Apple TV+,episode06-407701-11102023-saison3-The-Morning-Show.html
+236,237,The Worst of Evil,6,1,11-10-2023,Etats-Unis,Disney+,episode06-410768-11102023-saison1-The-Worst-of-Evil.html
+237,238,The Worst of Evil,7,1,11-10-2023,Etats-Unis,Disney+,episode07-410769-11102023-saison1-The-Worst-of-Evil.html
+238,239,Un Si Grand Soleil,28,6,11-10-2023,France,France 2,episode28-411044-11102023-saison6-Un-Si-Grand-Soleil.html
+239,240,Young Dylan,6,4,11-10-2023,Etats-Unis,Nickelodeon,episode06-410624-11102023-saison4-Young-Dylan.html
+240,241,All Creatures Great and Small (2020),2,4,12-10-2023,Royaume-Uni,Channel 5,episode02-410698-12102023-saison4-All-Creatures-Great-and-Small-(2020).html
+241,242,Alphonse,1,1,12-10-2023,Etats-Unis,Prime Video,episode01-411024-12102023-saison1-Alphonse.html
+242,243,Alphonse,2,1,12-10-2023,Etats-Unis,Prime Video,episode02-411131-12102023-saison1-Alphonse.html
+243,244,Alphonse,3,1,12-10-2023,Etats-Unis,Prime Video,episode03-411132-12102023-saison1-Alphonse.html
+244,245,À La Carte,5,2,12-10-2023,Etats-Unis,ALLBLK,episode05-410518-12102023-saison2-A-La-Carte.html
+245,246,Cobra (UK),1,3,12-10-2023,Royaume-Uni,Sky1,episode01-410604-12102023-saison3-Cobra-(UK).html
+246,247,Cobra (UK),2,3,12-10-2023,Royaume-Uni,Sky1,episode02-411133-12102023-saison3-Cobra-(UK).html
+247,248,Cobra (UK),3,3,12-10-2023,Royaume-Uni,Sky1,episode03-411134-12102023-saison3-Cobra-(UK).html
+248,249,Cobra (UK),4,3,12-10-2023,Royaume-Uni,Sky1,episode04-411135-12102023-saison3-Cobra-(UK).html
+249,250,Cobra (UK),5,3,12-10-2023,Royaume-Uni,Sky1,episode05-411136-12102023-saison3-Cobra-(UK).html
+250,251,Cobra (UK),6,3,12-10-2023,Royaume-Uni,Sky1,episode06-411137-12102023-saison3-Cobra-(UK).html
+251,252,Demain nous appartient,39,7,12-10-2023,France,TF1,episode39-411036-12102023-saison7-Demain-nous-appartient.html
+252,253,Doom Patrol,7,4,12-10-2023,Etats-Unis,HBO Max,episode07-410004-12102023-saison4-Doom-Patrol.html
+253,254,Doom Patrol,8,4,12-10-2023,Etats-Unis,HBO Max,episode08-410005-12102023-saison4-Doom-Patrol.html
+254,255,Frasier (2023),1,1,12-10-2023,Etats-Unis,Paramount+,episode01-409723-12102023-saison1-Frasier-(2023).html
+255,256,Frasier (2023),2,1,12-10-2023,Etats-Unis,Paramount+,episode02-409724-12102023-saison1-Frasier-(2023).html
+256,257,Ici tout commence,34,4,12-10-2023,France,TF1,episode34-411041-12102023-saison4-Ici-tout-commence.html
+257,258,Les révoltés,7,1,12-10-2023,Canada,Club illico ,episode07-411203-12102023-saison1-Les-revoltes.html
+258,259,Les révoltés,8,1,12-10-2023,Canada,Club illico ,episode08-411204-12102023-saison1-Les-revoltes.html
+259,260,Loki,2,2,12-10-2023,Etats-Unis,Disney+,episode02-410902-12102023-saison2-Loki.html
+260,261,LT-21,1,1,12-10-2023,France,OCS,episode01-408962-12102023-saison1-LT-21.html
+261,262,LT-21,2,1,12-10-2023,France,OCS,episode02-408963-12102023-saison1-LT-21.html
+262,263,Nackt über Berlin,1,1,12-10-2023,France,Arte,episode01-410608-12102023-saison1-Nackt-uber-Berlin.html
+263,264,Nackt über Berlin,2,1,12-10-2023,France,Arte,episode02-410609-12102023-saison1-Nackt-uber-Berlin.html
+264,265,Nackt über Berlin,3,1,12-10-2023,France,Arte,episode03-410610-12102023-saison1-Nackt-uber-Berlin.html
+265,266,Our Flag Means Death,4,2,12-10-2023,Etats-Unis,HBO Max,episode04-409665-12102023-saison2-Our-Flag-Means-Death.html
+266,267,Our Flag Means Death,5,2,12-10-2023,Etats-Unis,HBO Max,episode05-409666-12102023-saison2-Our-Flag-Means-Death.html
+267,268,Star Trek: Lower Decks,7,4,12-10-2023,Etats-Unis,Paramount+,episode07-409761-12102023-saison4-Star-Trek-Lower-Decks.html
+268,269,The Fall of the House of Usher,1,1,12-10-2023,Etats-Unis,Netflix,episode01-408906-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+269,270,The Fall of the House of Usher,2,1,12-10-2023,Etats-Unis,Netflix,episode02-411090-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+270,271,The Fall of the House of Usher,3,1,12-10-2023,Etats-Unis,Netflix,episode03-411091-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+271,272,The Fall of the House of Usher,4,1,12-10-2023,Etats-Unis,Netflix,episode04-411092-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+272,273,The Fall of the House of Usher,5,1,12-10-2023,Etats-Unis,Netflix,episode05-411093-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+273,274,The Fall of the House of Usher,6,1,12-10-2023,Etats-Unis,Netflix,episode06-411094-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+274,275,The Fall of the House of Usher,7,1,12-10-2023,Etats-Unis,Netflix,episode07-411095-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+275,276,The Fall of the House of Usher,8,1,12-10-2023,Etats-Unis,Netflix,episode08-411096-12102023-saison1-The-Fall-of-the-House-of-Usher.html
+276,277,Un Si Grand Soleil,29,6,12-10-2023,France,France 2,episode29-411045-12102023-saison6-Un-Si-Grand-Soleil.html
+277,278,Billions,10,7,13-10-2023,Etats-Unis,Showtime,episode10-409767-13102023-saison7-Billions.html
+278,279,Bria Mack Gets A Life,1,1,13-10-2023,Canada,CraveTV,episode01-410332-13102023-saison1-Bria-Mack-Gets-A-Life.html
+279,280,Bria Mack Gets A Life,2,1,13-10-2023,Canada,CraveTV,episode02-410333-13102023-saison1-Bria-Mack-Gets-A-Life.html
+280,281,Bria Mack Gets A Life,3,1,13-10-2023,Canada,CraveTV,episode03-410334-13102023-saison1-Bria-Mack-Gets-A-Life.html
+281,282,Creepshow,1,4,13-10-2023,Etats-Unis,Shudder,episode01-410146-13102023-saison4-Creepshow.html
+282,283,Demain nous appartient,40,7,13-10-2023,France,TF1,episode40-411037-13102023-saison7-Demain-nous-appartient.html
+283,284,Die Quellen des Bösen,1,1,13-10-2023,Allemagne,RTL,episode01-411207-13102023-saison1-Die-Quellen-des-Bosen.html
+284,285,Die Quellen des Bösen,2,1,13-10-2023,Allemagne,RTL,episode02-411208-13102023-saison1-Die-Quellen-des-Bosen.html
+285,286,Die Quellen des Bösen,3,1,13-10-2023,Allemagne,RTL,episode03-411209-13102023-saison1-Die-Quellen-des-Bosen.html
+286,287,Die Quellen des Bösen,4,1,13-10-2023,Allemagne,RTL,episode04-411210-13102023-saison1-Die-Quellen-des-Bosen.html
+287,288,Die Quellen des Bösen,5,1,13-10-2023,Allemagne,RTL,episode05-411211-13102023-saison1-Die-Quellen-des-Bosen.html
+288,289,Die Quellen des Bösen,6,1,13-10-2023,Allemagne,RTL,episode06-411212-13102023-saison1-Die-Quellen-des-Bosen.html
+289,290,Familjen Andersson,9,1,13-10-2023,Suède,SVT Play,episode09-409540-13102023-saison1-Familjen-Andersson.html
+290,291,Gaslight,7,1,13-10-2023,Suède,SVT Play,episode07-410683-13102023-saison1-Gaslight.html
+291,292,Gaslight,8,1,13-10-2023,Suède,SVT Play,episode08-410684-13102023-saison1-Gaslight.html
+292,293,Gaslight,9,1,13-10-2023,Suède,SVT Play,episode09-410685-13102023-saison1-Gaslight.html
+293,294,Gen V,5,1,13-10-2023,Etats-Unis,Prime Video,episode05-408429-13102023-saison1-Gen-V.html
+294,295,Goosebumps (2023),1,1,13-10-2023,Etats-Unis,Disney+,episode01-409978-13102023-saison1-Goosebumps-(2023).html
+295,296,Goosebumps (2023),2,1,13-10-2023,Etats-Unis,Disney+,episode02-409979-13102023-saison1-Goosebumps-(2023).html
+296,297,Goosebumps (2023),3,1,13-10-2023,Etats-Unis,Disney+,episode03-409980-13102023-saison1-Goosebumps-(2023).html
+297,298,Goosebumps (2023),4,1,13-10-2023,Etats-Unis,Disney+,episode04-409981-13102023-saison1-Goosebumps-(2023).html
+298,299,Goosebumps (2023),5,1,13-10-2023,Etats-Unis,Disney+,episode05-409982-13102023-saison1-Goosebumps-(2023).html
+299,300,Ici tout commence,35,4,13-10-2023,France,TF1,episode35-411042-13102023-saison4-Ici-tout-commence.html
+300,301,John Carpenter's Suburban Screams,1,1,13-10-2023,Etats-Unis,Peacock,episode01-410425-13102023-saison1-John-Carpenter-s-Suburban-Screams.html
+301,302,Lessons In Chemistry,1,1,13-10-2023,Etats-Unis,Apple TV+,episode01-406597-13102023-saison1-Lessons-In-Chemistry.html
+302,303,Lessons In Chemistry,2,1,13-10-2023,Etats-Unis,Apple TV+,episode02-406598-13102023-saison1-Lessons-In-Chemistry.html
+303,304,Power Book IV: Force,7,2,13-10-2023,Etats-Unis,Starz,episode07-410802-13102023-saison2-Power-Book-IV-Force.html
+304,305,Shining Vale,1,2,13-10-2023,Etats-Unis,Starz,episode01-409054-13102023-saison2-Shining-Vale.html
+305,306,Shoresy,4,2,13-10-2023,Canada,CraveTV,episode04-410867-13102023-saison2-Shoresy.html
+306,307,SOKO Leipzig,8,24,13-10-2023,Allemagne,ZDF,episode08-410562-13102023-saison24-SOKO-Leipzig.html
+307,308,Solsidan,4,8,13-10-2023,Suède,TV4,episode04-411053-13102023-saison8-Solsidan.html
+308,309,Still Up,6,1,13-10-2023,Etats-Unis,Apple TV+,episode06-408947-13102023-saison1-Still-Up.html
+309,310,The Changeling,8,1,13-10-2023,Etats-Unis,Apple TV+,episode08-408183-13102023-saison1-The-Changeling.html
+310,311,The Good Ship Murder,1,1,13-10-2023,Royaume-Uni,Channel 5,episode01-410952-13102023-saison1-The-Good-Ship-Murder.html
+311,312,Transplant,2,4,13-10-2023,Canada,CTV,episode02-409737-13102023-saison4-Transplant.html
+312,313,Un Si Grand Soleil,30,6,13-10-2023,France,France 2,episode30-411046-13102023-saison6-Un-Si-Grand-Soleil.html
+313,314,All Rise,15,3,14-10-2023,Etats-Unis,OWN,episode15-410329-14102023-saison3-All-Rise.html
+314,315,Arthdal Chronicles,11,2,14-10-2023,Corée du Sud,tvN,episode11-411012-14102023-saison2-Arthdal-Chronicles.html
+315,316,Boomer,7,1,14-10-2023,Belgique,Één,episode07-409828-14102023-saison1-Boomer.html
+316,317,Arthdal Chronicles,12,2,15-10-2023,Corée du Sud,tvN,episode12-411013-15102023-saison2-Arthdal-Chronicles.html
+317,318,Billy the Kid,1,2,15-10-2023,Etats-Unis,Epix,episode01-409587-15102023-saison2-Billy-the-Kid.html
+318,319,Entre Tierras,6,1,15-10-2023,Espagne,ATRESplayer,episode06-410972-15102023-saison1-Entre-Tierras.html
+319,320,Heartland (CA),3,17,15-10-2023,Canada,CBC,episode03-410869-15102023-saison17-Heartland-(CA).html
+320,321,Last Week Tonight With John Oliver,13,10,15-10-2023,Etats-Unis,HBO,episode13-411282-15102023-saison10-Last-Week-Tonight-With-John-Oliver.html
+321,322,Les Mystères de l'amour,10,33,15-10-2023,France,TMC,episode10-410795-15102023-saison33-Les-Mysteres-de-l-amour.html
+322,323,Pantheon,1,2,15-10-2023,Etats-Unis,Prime Video,episode01-411163-15102023-saison2-Pantheon.html
+323,324,Pantheon,2,2,15-10-2023,Etats-Unis,Prime Video,episode02-411164-15102023-saison2-Pantheon.html
+324,325,Pantheon,3,2,15-10-2023,Etats-Unis,Prime Video,episode03-411165-15102023-saison2-Pantheon.html
+325,326,Pantheon,4,2,15-10-2023,Etats-Unis,Prime Video,episode04-411166-15102023-saison2-Pantheon.html
+326,327,Pantheon,5,2,15-10-2023,Etats-Unis,Prime Video,episode05-411167-15102023-saison2-Pantheon.html
+327,328,Pantheon,6,2,15-10-2023,Etats-Unis,Prime Video,episode06-411168-15102023-saison2-Pantheon.html
+328,329,Pantheon,7,2,15-10-2023,Etats-Unis,Prime Video,episode07-411169-15102023-saison2-Pantheon.html
+329,330,Pantheon,8,2,15-10-2023,Etats-Unis,Prime Video,episode08-411170-15102023-saison2-Pantheon.html
+330,331,Rick and Morty,1,7,15-10-2023,Etats-Unis,Adult Swim,episode01-409644-15102023-saison7-Rick-and-Morty.html
+331,332,SkyMed,3,2,15-10-2023,Canada,CBC Gem,episode03-410741-15102023-saison2-SkyMed.html
+332,333,The Walking Dead: Daryl Dixon,6,1,15-10-2023,Etats-Unis,AMC,episode06-409849-15102023-saison1-The-Walking-Dead-Daryl-Dixon.html
+333,334,The Winter King,7,1,15-10-2023,Royaume-Uni,ITVX,episode07-409133-15102023-saison1-The-Winter-King.html
+334,335,When Calls the Heart,12,10,15-10-2023,Etats-Unis,Hallmark Channel,episode12-407541-15102023-saison10-When-Calls-the-Heart.html
+335,336,5è Rang,6,6,16-10-2023,Canada,Radio Canada,episode06-411292-16102023-saison6-5e-Rang.html
+336,337,Acting Good,1,2,16-10-2023,Canada,The Comedy Network,episode01-411121-16102023-saison2-Acting-Good.html
+337,338,D'argent et de sang,1,1,16-10-2023,France,Canal+,episode01-410171-16102023-saison1-D-argent-et-de-sang.html
+338,339,Harry Wild,3,2,16-10-2023,Etats-Unis,Acorn TV,episode03-410201-16102023-saison2-Harry-Wild.html
+339,340,Murdoch Mysteries,3,17,16-10-2023,Canada,Citytv,episode03-410870-16102023-saison17-Murdoch-Mysteries.html
+340,341,Narvalo,6,3,16-10-2023,France,Canal+,episode06-410630-16102023-saison3-Narvalo.html
+341,342,SOKO Potsdam,4,6,16-10-2023,Allemagne,ZDF,episode04-410909-16102023-saison6-SOKO-Potsdam.html
+342,343,The Irrational,4,1,16-10-2023,Etats-Unis,NBC,episode04-409863-16102023-saison1-The-Irrational.html
+343,344,Found,3,1,17-10-2023,Etats-Unis,NBC,episode03-409894-17102023-saison1-Found.html
+344,345,The Oval,1,5,17-10-2023,Etats-Unis,BET,episode01-410192-17102023-saison5-The-Oval.html
+345,346,American Horror Story,5,12,18-10-2023,Etats-Unis,FX,episode05-410785-18102023-saison12-American-Horror-Story.html
+346,347,Bones of Crows,5,1,18-10-2023,Canada,CBC,episode05-410805-18102023-saison1-Bones-of-Crows.html
+347,348,Children Ruin Everything,4,3,18-10-2023,Canada,CTV,episode04-411015-18102023-saison3-Children-Ruin-Everything.html
+348,349,Chucky,3,3,18-10-2023,Etats-Unis,Syfy,episode03-409116-18102023-saison3-Chucky.html
+349,350,Cooper's Bar,3,2,18-10-2023,Etats-Unis,AMC,episode03-411063-18102023-saison2-Cooper-s-Bar.html
+350,351,Hudson & Rex,3,6,18-10-2023,Canada,Citytv,episode03-411097-18102023-saison6-Hudson--Rex.html
+351,352,Invasion (2021),9,2,18-10-2023,Etats-Unis,Apple TV+,episode09-407973-18102023-saison2-Invasion-(2021).html
+352,353,Kaala Paani,1,1,18-10-2023,Etats-Unis,Netflix,episode01-410946-18102023-saison1-Kaala-Paani.html
+353,354,Kaala Paani,2,1,18-10-2023,Etats-Unis,Netflix,episode02-411286-18102023-saison1-Kaala-Paani.html
+354,355,Kaala Paani,3,1,18-10-2023,Etats-Unis,Netflix,episode03-411287-18102023-saison1-Kaala-Paani.html
+355,356,Kaala Paani,4,1,18-10-2023,Etats-Unis,Netflix,episode04-411288-18102023-saison1-Kaala-Paani.html
+356,357,Kaala Paani,5,1,18-10-2023,Etats-Unis,Netflix,episode05-411289-18102023-saison1-Kaala-Paani.html
+357,358,Kaala Paani,6,1,18-10-2023,Etats-Unis,Netflix,episode06-411290-18102023-saison1-Kaala-Paani.html
+358,359,Kaala Paani,7,1,18-10-2023,Etats-Unis,Netflix,episode07-411291-18102023-saison1-Kaala-Paani.html
+359,360,Les invisibles (FRA),1,3,18-10-2023,France,France.tv,episode01-411303-18102023-saison3-Les-invisibles-(FRA).html
+360,361,Les invisibles (FRA),2,3,18-10-2023,France,France.tv,episode02-411304-18102023-saison3-Les-invisibles-(FRA).html
+361,362,Les invisibles (FRA),3,3,18-10-2023,France,France.tv,episode03-411305-18102023-saison3-Les-invisibles-(FRA).html
+362,363,Les invisibles (FRA),4,3,18-10-2023,France,France.tv,episode04-411306-18102023-saison3-Les-invisibles-(FRA).html
+363,364,Les invisibles (FRA),5,3,18-10-2023,France,France.tv,episode05-411307-18102023-saison3-Les-invisibles-(FRA).html
+364,365,Les invisibles (FRA),6,3,18-10-2023,France,France.tv,episode06-411308-18102023-saison3-Les-invisibles-(FRA).html
+365,366,Magnum P.I. (2018),13,5,18-10-2023,Etats-Unis,NBC,episode13-410784-18102023-saison5-Magnum-PI-(2018).html
+366,367,Quantum Leap (2022),3,2,18-10-2023,Etats-Unis,NBC,episode03-409964-18102023-saison2-Quantum-Leap-(2022).html
+367,368,Robyn Hood,4,1,18-10-2023,Canada,Global,episode04-410951-18102023-saison1-Robyn-Hood.html
+368,369,Sistas,12,6,18-10-2023,Etats-Unis,BET,episode12-410186-18102023-saison6-Sistas.html
+369,370,SurrealEstate,3,2,18-10-2023,Etats-Unis,Syfy,episode03-410882-18102023-saison2-SurrealEstate.html
+370,371,The Morning Show,7,3,18-10-2023,Etats-Unis,Apple TV+,episode07-407702-18102023-saison3-The-Morning-Show.html
+371,372,The Worst of Evil,8,1,18-10-2023,Etats-Unis,Disney+,episode08-410770-18102023-saison1-The-Worst-of-Evil.html
+372,373,The Worst of Evil,9,1,18-10-2023,Etats-Unis,Disney+,episode09-410771-18102023-saison1-The-Worst-of-Evil.html
+373,374,Young Dylan,7,4,18-10-2023,Etats-Unis,Nickelodeon,episode07-410806-18102023-saison4-Young-Dylan.html
+374,375,All Creatures Great and Small (2020),3,4,19-10-2023,Royaume-Uni,Channel 5,episode03-410817-19102023-saison4-All-Creatures-Great-and-Small-(2020).html
+375,376,À La Carte,6,2,19-10-2023,Etats-Unis,ALLBLK,episode06-410519-19102023-saison2-A-La-Carte.html
+376,377,Bodies (2023),1,1,19-10-2023,Etats-Unis,Netflix,episode01-409738-19102023-saison1-Bodies-(2023).html
+377,378,Bodies (2023),2,1,19-10-2023,Etats-Unis,Netflix,episode02-409150-19102023-saison1-Bodies-(2023).html
+378,379,Bodies (2023),3,1,19-10-2023,Etats-Unis,Netflix,episode03-409149-19102023-saison1-Bodies-(2023).html
+379,380,Bodies (2023),4,1,19-10-2023,Etats-Unis,Netflix,episode04-409148-19102023-saison1-Bodies-(2023).html
+380,381,Bodies (2023),5,1,19-10-2023,Etats-Unis,Netflix,episode05-411058-19102023-saison1-Bodies-(2023).html
+381,382,Bodies (2023),6,1,19-10-2023,Etats-Unis,Netflix,episode06-411059-19102023-saison1-Bodies-(2023).html
+382,383,Bodies (2023),7,1,19-10-2023,Etats-Unis,Netflix,episode07-411060-19102023-saison1-Bodies-(2023).html
+383,384,Bodies (2023),8,1,19-10-2023,Etats-Unis,Netflix,episode08-411061-19102023-saison1-Bodies-(2023).html
+384,385,Crashing Eid,1,1,19-10-2023,Etats-Unis,Netflix,episode01-410955-19102023-saison1-Crashing-Eid.html
+385,386,Doom Patrol,9,4,19-10-2023,Etats-Unis,HBO Max,episode09-410006-19102023-saison4-Doom-Patrol.html
+386,387,Frasier (2023),3,1,19-10-2023,Etats-Unis,Paramount+,episode03-409725-19102023-saison1-Frasier-(2023).html
+387,388,La Mesias,3,1,19-10-2023,Espagne,Moviestar+,episode03-410545-19102023-saison1-La-Mesias.html
+388,389,Les révoltés,9,1,19-10-2023,Canada,Club illico ,episode09-411205-19102023-saison1-Les-revoltes.html
+389,390,Les révoltés,10,1,19-10-2023,Canada,Club illico ,episode10-411206-19102023-saison1-Les-revoltes.html
+390,391,Loki,3,2,19-10-2023,Etats-Unis,Disney+,episode03-410903-19102023-saison2-Loki.html
+391,392,LT-21,3,1,19-10-2023,France,OCS,episode03-408964-19102023-saison1-LT-21.html
+392,393,LT-21,4,1,19-10-2023,France,OCS,episode04-408965-19102023-saison1-LT-21.html
+393,394,Nackt über Berlin,4,1,19-10-2023,France,Arte,episode04-410611-19102023-saison1-Nackt-uber-Berlin.html
+394,395,Nackt über Berlin,5,1,19-10-2023,France,Arte,episode05-410612-19102023-saison1-Nackt-uber-Berlin.html
+395,396,Nackt über Berlin,6,1,19-10-2023,France,Arte,episode06-410613-19102023-saison1-Nackt-uber-Berlin.html
+396,397,Neon,1,1,19-10-2023,Etats-Unis,Netflix,episode01-409747-19102023-saison1-Neon.html
+397,398,Neon,2,1,19-10-2023,Etats-Unis,Netflix,episode02-409748-19102023-saison1-Neon.html
+398,399,Neon,3,1,19-10-2023,Etats-Unis,Netflix,episode03-409749-19102023-saison1-Neon.html
+399,400,Neon,4,1,19-10-2023,Etats-Unis,Netflix,episode04-409750-19102023-saison1-Neon.html
+400,401,Neon,5,1,19-10-2023,Etats-Unis,Netflix,episode05-409751-19102023-saison1-Neon.html
+401,402,Neon,6,1,19-10-2023,Etats-Unis,Netflix,episode06-409752-19102023-saison1-Neon.html
+402,403,Neon,7,1,19-10-2023,Etats-Unis,Netflix,episode07-409753-19102023-saison1-Neon.html
+403,404,Neon,8,1,19-10-2023,Etats-Unis,Netflix,episode08-409754-19102023-saison1-Neon.html
+404,405,Our Flag Means Death,6,2,19-10-2023,Etats-Unis,HBO Max,episode06-409667-19102023-saison2-Our-Flag-Means-Death.html
+405,406,Our Flag Means Death,7,2,19-10-2023,Etats-Unis,HBO Max,episode07-409668-19102023-saison2-Our-Flag-Means-Death.html
+406,407,Star Trek: Lower Decks,8,4,19-10-2023,Etats-Unis,Paramount+,episode08-409762-19102023-saison4-Star-Trek-Lower-Decks.html
+407,408,The Burning Girls,1,1,19-10-2023,Etats-Unis,Paramount+,episode01-410587-19102023-saison1-The-Burning-Girls.html
+408,409,The Burning Girls,2,1,19-10-2023,Etats-Unis,Paramount+,episode02-411309-19102023-saison1-The-Burning-Girls.html
+409,410,The Burning Girls,3,1,19-10-2023,Etats-Unis,Paramount+,episode03-411310-19102023-saison1-The-Burning-Girls.html
+410,411,The Burning Girls,4,1,19-10-2023,Etats-Unis,Paramount+,episode04-411311-19102023-saison1-The-Burning-Girls.html
+411,412,The Burning Girls,5,1,19-10-2023,Etats-Unis,Paramount+,episode05-411312-19102023-saison1-The-Burning-Girls.html
+412,413,The Burning Girls,6,1,19-10-2023,Etats-Unis,Paramount+,episode06-411313-19102023-saison1-The-Burning-Girls.html
+413,414,Wicked City (2022),1,2,19-10-2023,Etats-Unis,ALLBLK,episode01-411118-19102023-saison2-Wicked-City-(2022).html
+414,415,Wolf Like Me,1,2,19-10-2023,Etats-Unis,Peacock,episode01-409700-19102023-saison2-Wolf-Like-Me.html
+415,416,Wolf Like Me,2,2,19-10-2023,Etats-Unis,Peacock,episode02-409701-19102023-saison2-Wolf-Like-Me.html
+416,417,Wolf Like Me,3,2,19-10-2023,Etats-Unis,Peacock,episode03-409702-19102023-saison2-Wolf-Like-Me.html
+417,418,Wolf Like Me,4,2,19-10-2023,Etats-Unis,Peacock,episode04-409703-19102023-saison2-Wolf-Like-Me.html
+418,419,Wolf Like Me,5,2,19-10-2023,Etats-Unis,Peacock,episode05-409704-19102023-saison2-Wolf-Like-Me.html
+419,420,Wolf Like Me,6,2,19-10-2023,Etats-Unis,Peacock,episode06-409705-19102023-saison2-Wolf-Like-Me.html
+420,421,Wolf Like Me,7,2,19-10-2023,Etats-Unis,Peacock,episode07-409706-19102023-saison2-Wolf-Like-Me.html
+421,422,Big Mouth,1,7,20-10-2023,Etats-Unis,Netflix,episode01-410260-20102023-saison7-Big-Mouth.html
+422,423,Big Mouth,2,7,20-10-2023,Etats-Unis,Netflix,episode02-411318-20102023-saison7-Big-Mouth.html
+423,424,Big Mouth,3,7,20-10-2023,Etats-Unis,Netflix,episode03-411319-20102023-saison7-Big-Mouth.html
+424,425,Big Mouth,4,7,20-10-2023,Etats-Unis,Netflix,episode04-411320-20102023-saison7-Big-Mouth.html
+425,426,Big Mouth,5,7,20-10-2023,Etats-Unis,Netflix,episode05-411321-20102023-saison7-Big-Mouth.html
+426,427,Big Mouth,6,7,20-10-2023,Etats-Unis,Netflix,episode06-411322-20102023-saison7-Big-Mouth.html
+427,428,Big Mouth,7,7,20-10-2023,Etats-Unis,Netflix,episode07-411323-20102023-saison7-Big-Mouth.html
+428,429,Big Mouth,8,7,20-10-2023,Etats-Unis,Netflix,episode08-411324-20102023-saison7-Big-Mouth.html
+429,430,Big Mouth,9,7,20-10-2023,Etats-Unis,Netflix,episode09-411325-20102023-saison7-Big-Mouth.html
+430,431,Big Mouth,10,7,20-10-2023,Etats-Unis,Netflix,episode10-411326-20102023-saison7-Big-Mouth.html
+431,432,Billions,11,7,20-10-2023,Etats-Unis,Showtime,episode11-409776-20102023-saison7-Billions.html
+432,433,Bosch: Legacy,1,2,20-10-2023,Etats-Unis,Amazon Freevee,episode01-409707-20102023-saison2-Bosch-Legacy.html
+433,434,Bosch: Legacy,2,2,20-10-2023,Etats-Unis,Amazon Freevee,episode02-409708-20102023-saison2-Bosch-Legacy.html
+434,435,Bosch: Legacy,3,2,20-10-2023,Etats-Unis,Amazon Freevee,episode03-409709-20102023-saison2-Bosch-Legacy.html
+435,436,Bosch: Legacy,4,2,20-10-2023,Etats-Unis,Amazon Freevee,episode04-409710-20102023-saison2-Bosch-Legacy.html
+436,437,Bria Mack Gets A Life,4,1,20-10-2023,Canada,CraveTV,episode04-410335-20102023-saison1-Bria-Mack-Gets-A-Life.html
+437,438,Bria Mack Gets A Life,5,1,20-10-2023,Canada,CraveTV,episode05-410336-20102023-saison1-Bria-Mack-Gets-A-Life.html
+438,439,Bria Mack Gets A Life,6,1,20-10-2023,Canada,CraveTV,episode06-410337-20102023-saison1-Bria-Mack-Gets-A-Life.html
+439,440,Doona!,1,1,20-10-2023,Etats-Unis,Netflix,episode01-410162-20102023-saison1-Doona.html
+440,441,Doona!,2,1,20-10-2023,Etats-Unis,Netflix,episode02-410163-20102023-saison1-Doona.html
+441,442,Doona!,3,1,20-10-2023,Etats-Unis,Netflix,episode03-410164-20102023-saison1-Doona.html
+442,443,Doona!,4,1,20-10-2023,Etats-Unis,Netflix,episode04-410165-20102023-saison1-Doona.html
+443,444,Doona!,5,1,20-10-2023,Etats-Unis,Netflix,episode05-410166-20102023-saison1-Doona.html
+444,445,Doona!,6,1,20-10-2023,Etats-Unis,Netflix,episode06-410167-20102023-saison1-Doona.html
+445,446,Doona!,7,1,20-10-2023,Etats-Unis,Netflix,episode07-410168-20102023-saison1-Doona.html
+446,447,Doona!,8,1,20-10-2023,Etats-Unis,Netflix,episode08-410169-20102023-saison1-Doona.html
+447,448,Doona!,9,1,20-10-2023,Etats-Unis,Netflix,episode09-410170-20102023-saison1-Doona.html
+448,449,Élite,1,7,20-10-2023,Etats-Unis,Netflix,episode01-407350-20102023-saison7-Elite.html
+449,450,Élite,2,7,20-10-2023,Etats-Unis,Netflix,episode02-407351-20102023-saison7-Elite.html
+450,451,Élite,3,7,20-10-2023,Etats-Unis,Netflix,episode03-407352-20102023-saison7-Elite.html
+451,452,Élite,4,7,20-10-2023,Etats-Unis,Netflix,episode04-407353-20102023-saison7-Elite.html
+452,453,Élite,5,7,20-10-2023,Etats-Unis,Netflix,episode05-407354-20102023-saison7-Elite.html
+453,454,Élite,6,7,20-10-2023,Etats-Unis,Netflix,episode06-407355-20102023-saison7-Elite.html
+454,455,Élite,7,7,20-10-2023,Etats-Unis,Netflix,episode07-407356-20102023-saison7-Elite.html
+455,456,Élite,8,7,20-10-2023,Etats-Unis,Netflix,episode08-407357-20102023-saison7-Elite.html
+456,457,Familjen Andersson,10,1,20-10-2023,Suède,SVT Play,episode10-409541-20102023-saison1-Familjen-Andersson.html
+457,458,Gen V,6,1,20-10-2023,Etats-Unis,Prime Video,episode06-408430-20102023-saison1-Gen-V.html
+458,459,Goosebumps (2023),6,1,20-10-2023,Etats-Unis,Disney+,episode06-409983-20102023-saison1-Goosebumps-(2023).html
+459,460,Lessons In Chemistry,3,1,20-10-2023,Etats-Unis,Apple TV+,episode03-406599-20102023-saison1-Lessons-In-Chemistry.html
+460,461,Power Book IV: Force,8,2,20-10-2023,Etats-Unis,Starz,episode08-410987-20102023-saison2-Power-Book-IV-Force.html
+461,462,Shining Vale,2,2,20-10-2023,Etats-Unis,Starz,episode02-411122-20102023-saison2-Shining-Vale.html
+462,463,SOKO Leipzig,9,24,20-10-2023,Allemagne,ZDF,episode09-410563-20102023-saison24-SOKO-Leipzig.html
+463,464,Still Up,7,1,20-10-2023,Etats-Unis,Apple TV+,episode07-408948-20102023-saison1-Still-Up.html
+464,465,The Good Ship Murder,2,1,20-10-2023,Royaume-Uni,Channel 5,episode02-410953-20102023-saison1-The-Good-Ship-Murder.html
+465,466,Transplant,3,4,20-10-2023,Canada,CTV,episode03-409839-20102023-saison4-Transplant.html
+466,467,Upload,1,3,20-10-2023,Etats-Unis,Prime Video,episode01-410010-20102023-saison3-Upload.html
+467,468,Upload,2,3,20-10-2023,Etats-Unis,Prime Video,episode02-410011-20102023-saison3-Upload.html
+468,469,Yaratilan,1,1,20-10-2023,Etats-Unis,Netflix,episode01-409988-20102023-saison1-Yaratilan.html
+469,470,Yaratilan,2,1,20-10-2023,Etats-Unis,Netflix,episode02-411327-20102023-saison1-Yaratilan.html
+470,471,Yaratilan,3,1,20-10-2023,Etats-Unis,Netflix,episode03-411328-20102023-saison1-Yaratilan.html
+471,472,Yaratilan,4,1,20-10-2023,Etats-Unis,Netflix,episode04-411329-20102023-saison1-Yaratilan.html
+472,473,Yaratilan,5,1,20-10-2023,Etats-Unis,Netflix,episode05-411330-20102023-saison1-Yaratilan.html
+473,474,Yaratilan,6,1,20-10-2023,Etats-Unis,Netflix,episode06-411331-20102023-saison1-Yaratilan.html
+474,475,Yaratilan,7,1,20-10-2023,Etats-Unis,Netflix,episode07-411332-20102023-saison1-Yaratilan.html
+475,476,Yaratilan,8,1,20-10-2023,Etats-Unis,Netflix,episode08-411333-20102023-saison1-Yaratilan.html
+476,477,All Rise,16,3,21-10-2023,Etats-Unis,OWN,episode16-410330-21102023-saison3-All-Rise.html
+477,478,Boomer,8,1,21-10-2023,Belgique,Één,episode08-409829-21102023-saison1-Boomer.html
+478,479,Billy the Kid,2,2,22-10-2023,Etats-Unis,Epix,episode02-409588-22102023-saison2-Billy-the-Kid.html
+479,480,Bob's Burgers,3,14,22-10-2023,Etats-Unis,Fox,episode03-410885-22102023-saison14-Bob-s-Burgers.html
+480,481,Entre Tierras,7,1,22-10-2023,Espagne,ATRESplayer,episode07-410973-22102023-saison1-Entre-Tierras.html
+481,482,Family Guy,3,22,22-10-2023,Etats-Unis,Fox,episode03-410998-22102023-saison22-Family-Guy.html
+482,483,Fear the Walking Dead,7,8,22-10-2023,Etats-Unis,AMC,episode07-408754-22102023-saison8-Fear-the-Walking-Dead.html
+483,484,Heartland (CA),4,17,22-10-2023,Canada,CBC,episode04-410871-22102023-saison17-Heartland-(CA).html
+484,485,Krapopolis,5,1,22-10-2023,Etats-Unis,Fox,episode05-410699-22102023-saison1-Krapopolis.html
+485,486,Les Mystères de l'amour,11,33,22-10-2023,France,TMC,episode11-410883-22102023-saison33-Les-Mysteres-de-l-amour.html
+486,487,Rick and Morty,2,7,22-10-2023,Etats-Unis,Adult Swim,episode02-410175-22102023-saison7-Rick-and-Morty.html
+487,488,SkyMed,4,2,22-10-2023,Canada,CBC Gem,episode04-411101-22102023-saison2-SkyMed.html
+488,489,The Simpsons,3,35,22-10-2023,Etats-Unis,Fox,episode03-410884-22102023-saison35-The-Simpsons.html
+489,490,The Villains of Valley View,17,2,22-10-2023,Etats-Unis,Disney Channel,episode17-411283-22102023-saison2-The-Villains-of-Valley-View.html
+490,491,The Winter King,8,1,22-10-2023,Royaume-Uni,ITVX,episode08-409134-22102023-saison1-The-Winter-King.html
+491,492,30 Monedas,1,2,23-10-2023,Europe,HBO Europe,episode01-410606-23102023-saison2-30-Monedas.html
+492,493,5è Rang,7,6,23-10-2023,Canada,Radio Canada,episode07-411293-23102023-saison6-5e-Rang.html
+493,494,Acting Good,2,2,23-10-2023,Canada,The Comedy Network,episode02-411294-23102023-saison2-Acting-Good.html
+494,495,Harry Wild,4,2,23-10-2023,Etats-Unis,Acorn TV,episode04-410202-23102023-saison2-Harry-Wild.html
+495,496,Murdoch Mysteries,4,17,23-10-2023,Canada,Citytv,episode04-410872-23102023-saison17-Murdoch-Mysteries.html
+496,497,Narvalo,7,3,23-10-2023,France,Canal+,episode07-410631-23102023-saison3-Narvalo.html
+497,498,SOKO Potsdam,5,6,23-10-2023,Allemagne,ZDF,episode05-410910-23102023-saison6-SOKO-Potsdam.html
+498,499,Spooky Files,1,1,23-10-2023,Royaume-Uni,CBBC,episode01-411213-23102023-saison1-Spooky-Files.html
+499,500,Spooky Files,2,1,23-10-2023,Royaume-Uni,CBBC,episode02-411214-23102023-saison1-Spooky-Files.html
+500,501,Spooky Files,3,1,23-10-2023,Royaume-Uni,CBBC,episode03-411215-23102023-saison1-Spooky-Files.html
+501,502,Spooky Files,4,1,23-10-2023,Royaume-Uni,CBBC,episode04-411216-23102023-saison1-Spooky-Files.html
+502,503,Spooky Files,5,1,23-10-2023,Royaume-Uni,CBBC,episode05-411217-23102023-saison1-Spooky-Files.html
+503,504,The Irrational,5,1,23-10-2023,Etats-Unis,NBC,episode05-409864-23102023-saison1-The-Irrational.html
+504,505,Found,4,1,24-10-2023,Etats-Unis,NBC,episode04-409895-24102023-saison1-Found.html
+505,506,The Oval,2,5,24-10-2023,Etats-Unis,BET,episode02-411123-24102023-saison5-The-Oval.html
+506,507,Absolutni debiutanci,1,1,25-10-2023,Etats-Unis,Netflix,episode01-410956-25102023-saison1-Absolutni-debiutanci.html
+507,508,American Horror Story,6,12,25-10-2023,Etats-Unis,FX,episode06-410999-25102023-saison12-American-Horror-Story.html
+508,509,Chucky,4,3,25-10-2023,Etats-Unis,Syfy,episode04-409117-25102023-saison3-Chucky.html
+509,510,Cooper's Bar,4,2,25-10-2023,Etats-Unis,AMC,episode04-411064-25102023-saison2-Cooper-s-Bar.html
+510,511,Hudson & Rex,4,6,25-10-2023,Canada,Citytv,episode04-411098-25102023-saison6-Hudson--Rex.html
+511,512,Invasion (2021),10,2,25-10-2023,Etats-Unis,Apple TV+,episode10-407974-25102023-saison2-Invasion-(2021).html
+512,513,Magnum P.I. (2018),14,5,25-10-2023,Etats-Unis,NBC,episode14-410786-25102023-saison5-Magnum-PI-(2018).html
+513,514,Quantum Leap (2022),4,2,25-10-2023,Etats-Unis,NBC,episode04-410254-25102023-saison2-Quantum-Leap-(2022).html
+514,515,Robyn Hood,5,1,25-10-2023,Canada,Global,episode05-411016-25102023-saison1-Robyn-Hood.html
+515,516,Sistas,13,6,25-10-2023,Etats-Unis,BET,episode13-411158-25102023-saison6-Sistas.html
+516,517,SurrealEstate,4,2,25-10-2023,Etats-Unis,Syfy,episode04-410886-25102023-saison2-SurrealEstate.html
+517,518,The Morning Show,8,3,25-10-2023,Etats-Unis,Apple TV+,episode08-407703-25102023-saison3-The-Morning-Show.html
+518,519,The Worst of Evil,10,1,25-10-2023,Etats-Unis,Disney+,episode10-410772-25102023-saison1-The-Worst-of-Evil.html
+519,520,The Worst of Evil,11,1,25-10-2023,Etats-Unis,Disney+,episode11-410773-25102023-saison1-The-Worst-of-Evil.html
+520,521,The Worst of Evil,12,1,25-10-2023,Etats-Unis,Disney+,episode12-410774-25102023-saison1-The-Worst-of-Evil.html
+521,522,Young Dylan,8,4,25-10-2023,Etats-Unis,Nickelodeon,episode08-410988-25102023-saison4-Young-Dylan.html
+522,523,All Creatures Great and Small (2020),4,4,26-10-2023,Royaume-Uni,Channel 5,episode04-410984-26102023-saison4-All-Creatures-Great-and-Small-(2020).html
+523,524,American Horror Stories,1,3,26-10-2023,Etats-Unis,FX,episode01-409055-26102023-saison3-American-Horror-Stories.html
+524,525,American Horror Stories,2,3,26-10-2023,Etats-Unis,FX,episode02-411055-26102023-saison3-American-Horror-Stories.html
+525,526,American Horror Stories,3,3,26-10-2023,Etats-Unis,FX,episode03-411056-26102023-saison3-American-Horror-Stories.html
+526,527,American Horror Stories,4,3,26-10-2023,Etats-Unis,FX,episode04-411057-26102023-saison3-American-Horror-Stories.html
+527,528,À La Carte,7,2,26-10-2023,Etats-Unis,ALLBLK,episode07-410520-26102023-saison2-A-La-Carte.html
+528,529,Doom Patrol,10,4,26-10-2023,Etats-Unis,HBO Max,episode10-410007-26102023-saison4-Doom-Patrol.html
+529,530,Frasier (2023),4,1,26-10-2023,Etats-Unis,Paramount+,episode04-409726-26102023-saison1-Frasier-(2023).html
+530,531,La Mesias,4,1,26-10-2023,Espagne,Moviestar+,episode04-410546-26102023-saison1-La-Mesias.html
+531,532,Loki,4,2,26-10-2023,Etats-Unis,Disney+,episode04-410904-26102023-saison2-Loki.html
+532,533,LT-21,5,1,26-10-2023,France,OCS,episode05-408966-26102023-saison1-LT-21.html
+533,534,LT-21,6,1,26-10-2023,France,OCS,episode06-408967-26102023-saison1-LT-21.html
+534,535,Our Flag Means Death,8,2,26-10-2023,Etats-Unis,HBO Max,episode08-409669-26102023-saison2-Our-Flag-Means-Death.html
+535,536,Pluto,1,1,26-10-2023,Etats-Unis,Netflix,episode01-406634-26102023-saison1-Pluto.html
+536,537,Star Trek: Lower Decks,9,4,26-10-2023,Etats-Unis,Paramount+,episode09-409763-26102023-saison4-Star-Trek-Lower-Decks.html
+537,538,The Vanishing Triangle,1,1,26-10-2023,Etats-Unis,SundanceTV,episode01-410193-26102023-saison1-The-Vanishing-Triangle.html
+538,539,The Vanishing Triangle,2,1,26-10-2023,Etats-Unis,SundanceTV,episode02-410194-26102023-saison1-The-Vanishing-Triangle.html
+539,540,Billions,12,7,27-10-2023,Etats-Unis,Showtime,episode12-409777-27102023-saison7-Billions.html
+540,541,Bosch: Legacy,5,2,27-10-2023,Etats-Unis,Amazon Freevee,episode05-409711-27102023-saison2-Bosch-Legacy.html
+541,542,Bosch: Legacy,6,2,27-10-2023,Etats-Unis,Amazon Freevee,episode06-409712-27102023-saison2-Bosch-Legacy.html
+542,543,Fellow Travelers 1,1,1,27-10-2023,Etats-Unis,Showtime,episode01-409066-27102023-saison1-Fellow-Travelers-1.html
+543,544,Gen V,7,1,27-10-2023,Etats-Unis,Prime Video,episode07-408431-27102023-saison1-Gen-V.html
+544,545,Goosebumps (2023),7,1,27-10-2023,Etats-Unis,Disney+,episode07-409984-27102023-saison1-Goosebumps-(2023).html
+545,546,Lessons In Chemistry,4,1,27-10-2023,Etats-Unis,Apple TV+,episode04-406600-27102023-saison1-Lessons-In-Chemistry.html
+546,547,Memento Mori,1,1,27-10-2023,Etats-Unis,Prime Video,episode01-410947-27102023-saison1-Memento-Mori.html
+547,548,Shining Vale,3,2,27-10-2023,Etats-Unis,Starz,episode03-411124-27102023-saison2-Shining-Vale.html
+548,549,SOKO Leipzig,10,24,27-10-2023,Allemagne,ZDF,episode10-410564-27102023-saison24-SOKO-Leipzig.html
+549,550,Still Up,8,1,27-10-2023,Etats-Unis,Apple TV+,episode08-408949-27102023-saison1-Still-Up.html
+550,551,The Good Ship Murder,3,1,27-10-2023,Royaume-Uni,Channel 5,episode03-410954-27102023-saison1-The-Good-Ship-Murder.html
+551,552,Tore,1,1,27-10-2023,Etats-Unis,Netflix,episode01-410156-27102023-saison1-Tore.html
+552,553,Tore,2,1,27-10-2023,Etats-Unis,Netflix,episode02-410157-27102023-saison1-Tore.html
+553,554,Tore,3,1,27-10-2023,Etats-Unis,Netflix,episode03-410158-27102023-saison1-Tore.html
+554,555,Tore,4,1,27-10-2023,Etats-Unis,Netflix,episode04-410159-27102023-saison1-Tore.html
+555,556,Tore,5,1,27-10-2023,Etats-Unis,Netflix,episode05-410160-27102023-saison1-Tore.html
+556,557,Tore,6,1,27-10-2023,Etats-Unis,Netflix,episode06-410161-27102023-saison1-Tore.html
+557,558,Transplant,4,4,27-10-2023,Canada,CTV,episode04-409840-27102023-saison4-Transplant.html
+558,559,Upload,3,3,27-10-2023,Etats-Unis,Prime Video,episode03-410012-27102023-saison3-Upload.html
+559,560,Upload,4,3,27-10-2023,Etats-Unis,Prime Video,episode04-410013-27102023-saison3-Upload.html
+560,561,All Rise,17,3,28-10-2023,Etats-Unis,OWN,episode17-410331-28102023-saison3-All-Rise.html
+561,562,Boomer,9,1,28-10-2023,Belgique,Één,episode09-409830-28102023-saison1-Boomer.html
+562,563,Billy the Kid,3,2,29-10-2023,Etats-Unis,Epix,episode03-409589-29102023-saison2-Billy-the-Kid.html
+563,564,Bob's Burgers,4,14,29-10-2023,Etats-Unis,Fox,episode04-410887-29102023-saison14-Bob-s-Burgers.html
+564,565,Entre Tierras,8,1,29-10-2023,Espagne,ATRESplayer,episode08-410974-29102023-saison1-Entre-Tierras.html
+565,566,Fear the Walking Dead,8,8,29-10-2023,Etats-Unis,AMC,episode08-408755-29102023-saison8-Fear-the-Walking-Dead.html
+566,567,Heartland (CA),5,17,29-10-2023,Canada,CBC,episode05-411244-29102023-saison17-Heartland-(CA).html
+567,568,Krapopolis,6,1,29-10-2023,Etats-Unis,Fox,episode06-410700-29102023-saison1-Krapopolis.html
+568,569,Les Mystères de l'amour,12,33,29-10-2023,France,TMC,episode12-411100-29102023-saison33-Les-Mysteres-de-l-amour.html
+569,570,Rick and Morty,3,7,29-10-2023,Etats-Unis,Adult Swim,episode03-411159-29102023-saison7-Rick-and-Morty.html
+570,571,SkyMed,5,2,29-10-2023,Canada,CBC Gem,episode05-411280-29102023-saison2-SkyMed.html
+571,572,The Gilded Age,1,2,29-10-2023,Etats-Unis,HBO,episode01-409717-29102023-saison2-The-Gilded-Age.html
+572,573,The Simpsons,4,35,29-10-2023,Etats-Unis,Fox,episode04-410985-29102023-saison35-The-Simpsons.html
+573,574,The Winter King,9,1,29-10-2023,Royaume-Uni,ITVX,episode09-409135-29102023-saison1-The-Winter-King.html
+574,575,Acting Good,3,2,30-10-2023,Canada,The Comedy Network,episode03-411295-30102023-saison2-Acting-Good.html
+575,576,American Dad!,15,19,30-10-2023,Etats-Unis,TBS (US),episode15-411032-30102023-saison19-American-Dad.html
+576,577,Harry Wild,5,2,30-10-2023,Etats-Unis,Acorn TV,episode05-410203-30102023-saison2-Harry-Wild.html
+577,578,Murdoch Mysteries,5,17,30-10-2023,Canada,Citytv,episode05-411017-30102023-saison17-Murdoch-Mysteries.html
+578,579,SOKO Potsdam,6,6,30-10-2023,Allemagne,ZDF,episode06-410911-30102023-saison6-SOKO-Potsdam.html
+579,580,The Irrational,6,1,30-10-2023,Etats-Unis,NBC,episode06-409865-30102023-saison1-The-Irrational.html
+580,581,Found,5,1,31-10-2023,Etats-Unis,NBC,episode05-409896-31102023-saison1-Found.html
+581,582,The Oval,3,5,31-10-2023,Etats-Unis,BET,episode03-411296-31102023-saison5-The-Oval.html
+582,583,American Horror Story,7,12,01-11-2023,Etats-Unis,FX,episode07-411000-01112023-saison12-American-Horror-Story.html
+583,584,Black Cake,1,1,01-11-2023,Etats-Unis,Hulu,episode01-410147-01112023-saison1-Black-Cake.html
+584,585,Black Cake,2,1,01-11-2023,Etats-Unis,Hulu,episode02-410148-01112023-saison1-Black-Cake.html
+585,586,Black Cake,3,1,01-11-2023,Etats-Unis,Hulu,episode03-410149-01112023-saison1-Black-Cake.html
+586,587,Chucky,5,3,01-11-2023,Etats-Unis,Syfy,episode05-409118-01112023-saison3-Chucky.html
+587,588,Cooper's Bar,5,2,01-11-2023,Etats-Unis,AMC,episode05-411065-01112023-saison2-Cooper-s-Bar.html
+588,589,Magnum P.I. (2018),15,5,01-11-2023,Etats-Unis,NBC,episode15-410787-01112023-saison5-Magnum-PI-(2018).html
+589,590,Quantum Leap (2022),5,2,01-11-2023,Etats-Unis,NBC,episode05-410596-01112023-saison2-Quantum-Leap-(2022).html
+590,591,Robyn Hood,6,1,01-11-2023,Canada,Global,episode06-411297-01112023-saison1-Robyn-Hood.html
+591,592,Shetland,1,8,01-11-2023,Royaume-Uni,BBC One,episode01-411316-01112023-saison8-Shetland.html
+592,593,SurrealEstate,5,2,01-11-2023,Etats-Unis,Syfy,episode05-410888-01112023-saison2-SurrealEstate.html
+593,594,The Morning Show,9,3,01-11-2023,Etats-Unis,Apple TV+,episode09-407704-01112023-saison3-The-Morning-Show.html
+594,595,Young Dylan,9,4,01-11-2023,Etats-Unis,Nickelodeon,episode09-411284-01112023-saison4-Young-Dylan.html
+595,596,All Creatures Great and Small (2020),5,4,02-11-2023,Royaume-Uni,Channel 5,episode05-411160-02112023-saison4-All-Creatures-Great-and-Small-(2020).html
+596,597,All the Light We Cannot See,1,1,02-11-2023,Etats-Unis,Netflix,episode01-404459-02112023-saison1-All-the-Light-We-Cannot-See.html
+597,598,All the Light We Cannot See,2,1,02-11-2023,Etats-Unis,Netflix,episode02-404460-02112023-saison1-All-the-Light-We-Cannot-See.html
+598,599,All the Light We Cannot See,3,1,02-11-2023,Etats-Unis,Netflix,episode03-404461-02112023-saison1-All-the-Light-We-Cannot-See.html
+599,600,All the Light We Cannot See,4,1,02-11-2023,Etats-Unis,Netflix,episode04-404462-02112023-saison1-All-the-Light-We-Cannot-See.html
+600,601,À La Carte,8,2,02-11-2023,Etats-Unis,ALLBLK,episode08-410521-02112023-saison2-A-La-Carte.html
+601,602,Doom Patrol,11,4,02-11-2023,Etats-Unis,HBO Max,episode11-410008-02112023-saison4-Doom-Patrol.html
+602,603,Frasier (2023),5,1,02-11-2023,Etats-Unis,Paramount+,episode05-409727-02112023-saison1-Frasier-(2023).html
+603,604,Gadis Kretek,1,1,02-11-2023,Etats-Unis,Netflix,episode01-409077-02112023-saison1-Gadis-Kretek.html
+604,605,Kingdom Business,1,2,02-11-2023,Etats-Unis,BET+,episode01-411099-02112023-saison2-Kingdom-Business.html
+605,606,La Mesias,5,1,02-11-2023,Espagne,Moviestar+,episode05-410547-02112023-saison1-La-Mesias.html
+606,607,Loki,5,2,02-11-2023,Etats-Unis,Disney+,episode05-410905-02112023-saison2-Loki.html
+607,608,LT-21,7,1,02-11-2023,France,OCS,episode07-408968-02112023-saison1-LT-21.html
+608,609,LT-21,8,1,02-11-2023,France,OCS,episode08-408969-02112023-saison1-LT-21.html
+609,610,Star Trek: Lower Decks,10,4,02-11-2023,Etats-Unis,Paramount+,episode10-409764-02112023-saison4-Star-Trek-Lower-Decks.html
+610,611,The Vanishing Triangle,3,1,02-11-2023,Etats-Unis,SundanceTV,episode03-410195-02112023-saison1-The-Vanishing-Triangle.html
+611,612,Bosch: Legacy,7,2,03-11-2023,Etats-Unis,Amazon Freevee,episode07-409713-03112023-saison2-Bosch-Legacy.html
+612,613,Bosch: Legacy,8,2,03-11-2023,Etats-Unis,Amazon Freevee,episode08-409714-03112023-saison2-Bosch-Legacy.html
+613,614,Fellow Travelers 1,2,1,03-11-2023,Etats-Unis,Showtime,episode02-411067-03112023-saison1-Fellow-Travelers-1.html
+614,615,Ferry - De Serie,1,1,03-11-2023,Etats-Unis,Netflix,episode01-409079-03112023-saison1-Ferry---De-Serie.html
+615,616,Gen V,8,1,03-11-2023,Etats-Unis,Prime Video,episode08-408432-03112023-saison1-Gen-V.html
+616,617,Goosebumps (2023),8,1,03-11-2023,Etats-Unis,Disney+,episode08-409985-03112023-saison1-Goosebumps-(2023).html
+617,618,Invincible,1,2,03-11-2023,Etats-Unis,Prime Video,episode01-408502-03112023-saison2-Invincible.html
+618,619,Lessons In Chemistry,5,1,03-11-2023,Etats-Unis,Apple TV+,episode05-406601-03112023-saison1-Lessons-In-Chemistry.html
+619,620,Romancero,1,1,03-11-2023,Etats-Unis,Prime Video,episode01-410221-03112023-saison1-Romancero.html
+620,621,Shining Vale,4,2,03-11-2023,Etats-Unis,Starz,episode04-411125-03112023-saison2-Shining-Vale.html
+621,622,The Good Ship Murder,4,1,03-11-2023,Royaume-Uni,Channel 5,episode04-411245-03112023-saison1-The-Good-Ship-Murder.html
+622,623,Transplant,5,4,03-11-2023,Canada,CTV,episode05-409841-03112023-saison4-Transplant.html
+623,624,Upload,5,3,03-11-2023,Etats-Unis,Prime Video,episode05-410014-03112023-saison3-Upload.html
+624,625,Upload,6,3,03-11-2023,Etats-Unis,Prime Video,episode06-410015-03112023-saison3-Upload.html
+625,626,Boomer,10,1,04-11-2023,Belgique,Één,episode10-409831-04112023-saison1-Boomer.html
+626,627,Billy the Kid,4,2,05-11-2023,Etats-Unis,Epix,episode04-409590-05112023-saison2-Billy-the-Kid.html
+627,628,Bob's Burgers,5,14,05-11-2023,Etats-Unis,Fox,episode05-411285-05112023-saison14-Bob-s-Burgers.html
+628,629,Entre Tierras,9,1,05-11-2023,Espagne,ATRESplayer,episode09-410975-05112023-saison1-Entre-Tierras.html
+629,630,Family Guy,4,22,05-11-2023,Etats-Unis,Fox,episode04-411119-05112023-saison22-Family-Guy.html
+630,631,Fear the Walking Dead,9,8,05-11-2023,Etats-Unis,AMC,episode09-408756-05112023-saison8-Fear-the-Walking-Dead.html
+631,632,Krapopolis,7,1,05-11-2023,Etats-Unis,Fox,episode07-410711-05112023-saison1-Krapopolis.html
+632,633,Lawmen: Bass Reeves,1,1,05-11-2023,Etats-Unis,Paramount+,episode01-409976-05112023-saison1-Lawmen-Bass-Reeves.html
+633,634,Lawmen: Bass Reeves,2,1,05-11-2023,Etats-Unis,Paramount+,episode02-409977-05112023-saison1-Lawmen-Bass-Reeves.html
+634,635,Les Mystères de l'amour,13,33,05-11-2023,France,TMC,episode13-411298-05112023-saison33-Les-Mysteres-de-l-amour.html
+635,636,Rick and Morty,4,7,05-11-2023,Etats-Unis,Adult Swim,episode04-411272-05112023-saison7-Rick-and-Morty.html
+636,637,The Gilded Age,2,2,05-11-2023,Etats-Unis,HBO,episode02-411126-05112023-saison2-The-Gilded-Age.html
+637,638,The Simpsons,5,35,05-11-2023,Etats-Unis,Fox,episode05-410986-05112023-saison35-The-Simpsons.html
+638,639,The Winter King,10,1,05-11-2023,Royaume-Uni,ITVX,episode10-409136-05112023-saison1-The-Winter-King.html
+639,640,Acting Good,4,2,06-11-2023,Canada,The Comedy Network,episode04-411299-06112023-saison2-Acting-Good.html
+640,641,Harry Wild,6,2,06-11-2023,Etats-Unis,Acorn TV,episode06-410204-06112023-saison2-Harry-Wild.html
+641,642,Murdoch Mysteries,6,17,06-11-2023,Canada,Citytv,episode06-411314-06112023-saison17-Murdoch-Mysteries.html
+642,643,The Irrational,7,1,06-11-2023,Etats-Unis,NBC,episode07-409866-06112023-saison1-The-Irrational.html
+643,644,Found,6,1,07-11-2023,Etats-Unis,NBC,episode06-409897-07112023-saison1-Found.html
+644,645,Black Cake,4,1,08-11-2023,Etats-Unis,Hulu,episode04-410150-08112023-saison1-Black-Cake.html
+645,646,Chucky,6,3,08-11-2023,Etats-Unis,Syfy,episode06-409119-08112023-saison3-Chucky.html
+646,647,Cooper's Bar,6,2,08-11-2023,Etats-Unis,AMC,episode06-411066-08112023-saison2-Cooper-s-Bar.html
+647,648,Magnum P.I. (2018),16,5,08-11-2023,Etats-Unis,NBC,episode16-410796-08112023-saison5-Magnum-PI-(2018).html
+648,649,Quantum Leap (2022),6,2,08-11-2023,Etats-Unis,NBC,episode06-410801-08112023-saison2-Quantum-Leap-(2022).html
+649,650,Shetland,2,8,08-11-2023,Royaume-Uni,BBC One,episode02-411317-08112023-saison8-Shetland.html
+650,651,SurrealEstate,6,2,08-11-2023,Etats-Unis,Syfy,episode06-410889-08112023-saison2-SurrealEstate.html
+651,652,The Buccaneers (2023),1,1,08-11-2023,Etats-Unis,Apple TV+,episode01-409067-08112023-saison1-The-Buccaneers-(2023).html
+652,653,The Buccaneers (2023),2,1,08-11-2023,Etats-Unis,Apple TV+,episode02-409068-08112023-saison1-The-Buccaneers-(2023).html
+653,654,The Buccaneers (2023),3,1,08-11-2023,Etats-Unis,Apple TV+,episode03-409069-08112023-saison1-The-Buccaneers-(2023).html
+654,655,The Morning Show,10,3,08-11-2023,Etats-Unis,Apple TV+,episode10-407705-08112023-saison3-The-Morning-Show.html
+655,656,The Santa Clauses,1,2,08-11-2023,Etats-Unis,Disney+,episode01-410598-08112023-saison2-The-Santa-Clauses.html
+656,657,The Santa Clauses,2,2,08-11-2023,Etats-Unis,Disney+,episode02-410599-08112023-saison2-The-Santa-Clauses.html
+657,658,À La Carte,9,2,09-11-2023,Etats-Unis,ALLBLK,episode09-410522-09112023-saison2-A-La-Carte.html
+658,659,Doom Patrol,12,4,09-11-2023,Etats-Unis,HBO Max,episode12-410009-09112023-saison4-Doom-Patrol.html
+659,660,Frasier (2023),6,1,09-11-2023,Etats-Unis,Paramount+,episode06-409728-09112023-saison1-Frasier-(2023).html
+660,661,La Mesias,6,1,09-11-2023,Espagne,Moviestar+,episode06-410548-09112023-saison1-La-Mesias.html
+661,662,Loki,6,2,09-11-2023,Etats-Unis,Disney+,episode06-410906-09112023-saison2-Loki.html
+662,663,Rap Sh!t,1,2,09-11-2023,Etats-Unis,HBO Max,episode01-408167-09112023-saison2-Rap-Sht.html
+663,664,Rap Sh!t,2,2,09-11-2023,Etats-Unis,HBO Max,episode02-408168-09112023-saison2-Rap-Sht.html
+664,665,The Vanishing Triangle,4,1,09-11-2023,Etats-Unis,SundanceTV,episode04-410196-09112023-saison1-The-Vanishing-Triangle.html
+665,666,Bosch: Legacy,9,2,10-11-2023,Etats-Unis,Amazon Freevee,episode09-409715-10112023-saison2-Bosch-Legacy.html
+666,667,Bosch: Legacy,10,2,10-11-2023,Etats-Unis,Amazon Freevee,episode10-409716-10112023-saison2-Bosch-Legacy.html
+667,668,Fellow Travelers 1,3,1,10-11-2023,Etats-Unis,Showtime,episode03-411068-10112023-saison1-Fellow-Travelers-1.html
+668,669,For All Mankind,1,4,10-11-2023,Etats-Unis,Apple TV+,episode01-410205-10112023-saison4-For-All-Mankind.html
+669,670,Goosebumps (2023),9,1,10-11-2023,Etats-Unis,Disney+,episode09-409986-10112023-saison1-Goosebumps-(2023).html
+670,671,Lessons In Chemistry,6,1,10-11-2023,Etats-Unis,Apple TV+,episode06-406602-10112023-saison1-Lessons-In-Chemistry.html
+671,672,NCIS: Sydney,1,1,10-11-2023,Etats-Unis,Paramount+,episode01-410215-10112023-saison1-NCIS-Sydney.html
+672,673,Shining Vale,5,2,10-11-2023,Etats-Unis,Starz,episode05-411127-10112023-saison2-Shining-Vale.html
+673,674,The Curse (2023),1,1,10-11-2023,Etats-Unis,Showtime on Demand,episode01-410727-10112023-saison1-The-Curse-(2023).html
+674,675,The Good Ship Murder,5,1,10-11-2023,Royaume-Uni,Channel 5,episode05-411246-10112023-saison1-The-Good-Ship-Murder.html
+675,676,Transplant,6,4,10-11-2023,Canada,CTV,episode06-409842-10112023-saison4-Transplant.html
+676,677,Upload,7,3,10-11-2023,Etats-Unis,Prime Video,episode07-410016-10112023-saison3-Upload.html
+677,678,Upload,8,3,10-11-2023,Etats-Unis,Prime Video,episode08-410017-10112023-saison3-Upload.html
+678,679,Beacon 23,1,1,12-11-2023,Etats-Unis,Epix,episode01-410617-12112023-saison1-Beacon-23.html
+679,680,Entre Tierras,10,1,12-11-2023,Espagne,ATRESplayer,episode10-410976-12112023-saison1-Entre-Tierras.html
+680,681,Fear the Walking Dead,10,8,12-11-2023,Etats-Unis,AMC,episode10-408757-12112023-saison8-Fear-the-Walking-Dead.html
+681,682,Krapopolis,8,1,12-11-2023,Etats-Unis,Fox,episode08-410873-12112023-saison1-Krapopolis.html
+682,683,Rick and Morty,5,7,12-11-2023,Etats-Unis,Adult Swim,episode05-411273-12112023-saison7-Rick-and-Morty.html
+683,684,The Gilded Age,3,2,12-11-2023,Etats-Unis,HBO,episode03-411128-12112023-saison2-The-Gilded-Age.html
+684,685,Yellowstone,9,5,12-11-2023,Etats-Unis,Paramount Network,episode09-410018-12112023-saison5-Yellowstone.html
+685,686,Acting Good,5,2,13-11-2023,Canada,The Comedy Network,episode05-411300-13112023-saison2-Acting-Good.html
+686,687,The Irrational,8,1,13-11-2023,Etats-Unis,NBC,episode08-409867-13112023-saison1-The-Irrational.html
+687,688,A Murder at the End of the World,1,1,14-11-2023,Etats-Unis,Hulu,episode01-407977-14112023-saison1-A-Murder-at-the-End-of-the-World.html
+688,689,Found,7,1,14-11-2023,Etats-Unis,NBC,episode07-409898-14112023-saison1-Found.html
+689,690,Suburræterna,1,1,14-11-2023,Etats-Unis,Netflix,episode01-410618-14112023-saison1-Suburraeterna.html
+690,691,Black Cake,5,1,15-11-2023,Etats-Unis,Hulu,episode05-410151-15112023-saison1-Black-Cake.html
+691,692,Chucky,7,3,15-11-2023,Etats-Unis,Syfy,episode07-409120-15112023-saison3-Chucky.html
+692,693,Deutsches Haus,1,1,15-11-2023,Etats-Unis,Disney+,episode01-409989-15112023-saison1-Deutsches-Haus.html
+693,694,Magnum P.I. (2018),17,5,15-11-2023,Etats-Unis,NBC,episode17-410797-15112023-saison5-Magnum-PI-(2018).html
+694,695,Quantum Leap (2022),7,2,15-11-2023,Etats-Unis,NBC,episode07-410933-15112023-saison2-Quantum-Leap-(2022).html
+695,696,SurrealEstate,7,2,15-11-2023,Etats-Unis,Syfy,episode07-410934-15112023-saison2-SurrealEstate.html
+696,697,The Buccaneers (2023),4,1,15-11-2023,Etats-Unis,Apple TV+,episode04-409070-15112023-saison1-The-Buccaneers-(2023).html
+697,698,The Santa Clauses,3,2,15-11-2023,Etats-Unis,Disney+,episode03-410600-15112023-saison2-The-Santa-Clauses.html
+698,699,À La Carte,10,2,16-11-2023,Etats-Unis,ALLBLK,episode10-410523-16112023-saison2-A-La-Carte.html
+699,700,Frasier (2023),7,1,16-11-2023,Etats-Unis,Paramount+,episode07-409729-16112023-saison1-Frasier-(2023).html
+700,701,Julia (2022),1,2,16-11-2023,Etats-Unis,HBO Max,episode01-410536-16112023-saison2-Julia-(2022).html
+701,702,Julia (2022),2,2,16-11-2023,Etats-Unis,HBO Max,episode02-410537-16112023-saison2-Julia-(2022).html
+702,703,Julia (2022),3,2,16-11-2023,Etats-Unis,HBO Max,episode03-410538-16112023-saison2-Julia-(2022).html
+703,704,La Mesias,7,1,16-11-2023,Espagne,Moviestar+,episode07-410549-16112023-saison1-La-Mesias.html
+704,705,Rap Sh!t,3,2,16-11-2023,Etats-Unis,HBO Max,episode03-408169-16112023-saison2-Rap-Sht.html
+705,706,The Crown,1,6,16-11-2023,Etats-Unis,Netflix,episode01-411001-16112023-saison6-The-Crown.html
+706,707,The Vanishing Triangle,5,1,16-11-2023,Etats-Unis,SundanceTV,episode05-410197-16112023-saison1-The-Vanishing-Triangle.html
+707,708,Un professore,1,2,16-11-2023,Italie,Rai 1,episode01-411117-16112023-saison2-Un-professore.html
+708,709,For All Mankind,2,4,17-11-2023,Etats-Unis,Apple TV+,episode02-410206-17112023-saison4-For-All-Mankind.html
+709,710,Goosebumps (2023),10,1,17-11-2023,Etats-Unis,Disney+,episode10-409987-17112023-saison1-Goosebumps-(2023).html
+710,711,Lessons In Chemistry,7,1,17-11-2023,Etats-Unis,Apple TV+,episode07-406603-17112023-saison1-Lessons-In-Chemistry.html
+711,712,Monarch: Legacy of Monsters,1,1,17-11-2023,Etats-Unis,Apple TV+,episode01-409991-17112023-saison1-Monarch-Legacy-of-Monsters.html
+712,713,Monarch: Legacy of Monsters,2,1,17-11-2023,Etats-Unis,Apple TV+,episode02-409992-17112023-saison1-Monarch-Legacy-of-Monsters.html
+713,714,NCIS: Sydney,2,1,17-11-2023,Etats-Unis,Paramount+,episode02-410216-17112023-saison1-NCIS-Sydney.html
+714,715,Shining Vale,6,2,17-11-2023,Etats-Unis,Starz,episode06-411129-17112023-saison2-Shining-Vale.html
+715,716,Sort Of,1,3,17-11-2023,Canada,CBC Gem,episode01-410155-17112023-saison3-Sort-Of.html
+716,717,The Good Ship Murder,6,1,17-11-2023,Royaume-Uni,Channel 5,episode06-411247-17112023-saison1-The-Good-Ship-Murder.html
+717,718,Transplant,7,4,17-11-2023,Canada,CTV,episode07-409843-17112023-saison4-Transplant.html
+718,719,Fear the Walking Dead,11,8,19-11-2023,Etats-Unis,AMC,episode11-408758-19112023-saison8-Fear-the-Walking-Dead.html
+719,720,Krapopolis,9,1,19-11-2023,Etats-Unis,Fox,episode09-411002-19112023-saison1-Krapopolis.html
+720,721,Rick and Morty,6,7,19-11-2023,Etats-Unis,Adult Swim,episode06-411274-19112023-saison7-Rick-and-Morty.html
+721,722,The Gilded Age,4,2,19-11-2023,Etats-Unis,HBO,episode04-411130-19112023-saison2-The-Gilded-Age.html
+722,723,Acting Good,6,2,20-11-2023,Canada,The Comedy Network,episode06-411301-20112023-saison2-Acting-Good.html
+723,724,Spellbound,14,1,20-11-2023,Etats-Unis,Hulu,episode14-410565-20112023-saison1-Spellbound.html
+724,725,Spellbound,15,1,20-11-2023,Etats-Unis,Hulu,episode15-410566-20112023-saison1-Spellbound.html
+725,726,Spellbound,16,1,20-11-2023,Etats-Unis,Hulu,episode16-410567-20112023-saison1-Spellbound.html
+726,727,Spellbound,17,1,20-11-2023,Etats-Unis,Hulu,episode17-410568-20112023-saison1-Spellbound.html
+727,728,Spellbound,18,1,20-11-2023,Etats-Unis,Hulu,episode18-410569-20112023-saison1-Spellbound.html
+728,729,Spellbound,19,1,20-11-2023,Etats-Unis,Hulu,episode19-410570-20112023-saison1-Spellbound.html
+729,730,Spellbound,20,1,20-11-2023,Etats-Unis,Hulu,episode20-410571-20112023-saison1-Spellbound.html
+730,731,Spellbound,21,1,20-11-2023,Etats-Unis,Hulu,episode21-410572-20112023-saison1-Spellbound.html
+731,732,Spellbound,22,1,20-11-2023,Etats-Unis,Hulu,episode22-410573-20112023-saison1-Spellbound.html
+732,733,Spellbound,23,1,20-11-2023,Etats-Unis,Hulu,episode23-410574-20112023-saison1-Spellbound.html
+733,734,Spellbound,24,1,20-11-2023,Etats-Unis,Hulu,episode24-410575-20112023-saison1-Spellbound.html
+734,735,Spellbound,25,1,20-11-2023,Etats-Unis,Hulu,episode25-410576-20112023-saison1-Spellbound.html
+735,736,Spellbound,26,1,20-11-2023,Etats-Unis,Hulu,episode26-410577-20112023-saison1-Spellbound.html
+736,737,The Irrational,9,1,20-11-2023,Etats-Unis,NBC,episode09-409868-20112023-saison1-The-Irrational.html
+737,738,Fargo,1,5,21-11-2023,Etats-Unis,FX,episode01-409056-21112023-saison5-Fargo.html
+738,739,Found,8,1,21-11-2023,Etats-Unis,NBC,episode08-409899-21112023-saison1-Found.html
+739,740,Black Cake,6,1,22-11-2023,Etats-Unis,Hulu,episode06-410152-22112023-saison1-Black-Cake.html
+740,741,Chucky,8,3,22-11-2023,Etats-Unis,Syfy,episode08-409121-22112023-saison3-Chucky.html
+741,742,Magnum P.I. (2018),18,5,22-11-2023,Etats-Unis,NBC,episode18-410798-22112023-saison5-Magnum-PI-(2018).html
+742,743,Quantum Leap (2022),8,2,22-11-2023,Etats-Unis,NBC,episode08-411120-22112023-saison2-Quantum-Leap-(2022).html
+743,744,SurrealEstate,8,2,22-11-2023,Etats-Unis,Syfy,episode08-411102-22112023-saison2-SurrealEstate.html
+744,745,The Buccaneers (2023),5,1,22-11-2023,Etats-Unis,Apple TV+,episode05-409071-22112023-saison1-The-Buccaneers-(2023).html
+745,746,The Santa Clauses,4,2,22-11-2023,Etats-Unis,Disney+,episode04-410601-22112023-saison2-The-Santa-Clauses.html
+746,747,Frasier (2023),8,1,23-11-2023,Etats-Unis,Paramount+,episode08-409730-23112023-saison1-Frasier-(2023).html
+747,748,Julia (2022),4,2,23-11-2023,Etats-Unis,HBO Max,episode04-410539-23112023-saison2-Julia-(2022).html
+748,749,Rap Sh!t,4,2,23-11-2023,Etats-Unis,HBO Max,episode04-408170-23112023-saison2-Rap-Sht.html
+749,750,The Vanishing Triangle,6,1,23-11-2023,Etats-Unis,SundanceTV,episode06-410198-23112023-saison1-The-Vanishing-Triangle.html
+750,751,For All Mankind,3,4,24-11-2023,Etats-Unis,Apple TV+,episode03-410207-24112023-saison4-For-All-Mankind.html
+751,752,Lessons In Chemistry,8,1,24-11-2023,Etats-Unis,Apple TV+,episode08-406604-24112023-saison1-Lessons-In-Chemistry.html
+752,753,Monarch: Legacy of Monsters,3,1,24-11-2023,Etats-Unis,Apple TV+,episode03-409993-24112023-saison1-Monarch-Legacy-of-Monsters.html
+753,754,NCIS: Sydney,3,1,24-11-2023,Etats-Unis,Paramount+,episode03-410217-24112023-saison1-NCIS-Sydney.html
+754,755,Shining Vale,7,2,24-11-2023,Etats-Unis,Starz,episode07-411162-24112023-saison2-Shining-Vale.html
+755,756,The Good Ship Murder,7,1,24-11-2023,Royaume-Uni,Channel 5,episode07-411248-24112023-saison1-The-Good-Ship-Murder.html
+756,757,Transplant,8,4,24-11-2023,Canada,CTV,episode08-411161-24112023-saison4-Transplant.html
+757,758,Fear the Walking Dead,12,8,26-11-2023,Etats-Unis,AMC,episode12-408759-26112023-saison8-Fear-the-Walking-Dead.html
+758,759,Rick and Morty,7,7,26-11-2023,Etats-Unis,Adult Swim,episode07-411275-26112023-saison7-Rick-and-Morty.html
+759,760,The Gilded Age,5,2,26-11-2023,Etats-Unis,HBO,episode05-411249-26112023-saison2-The-Gilded-Age.html
+760,761,Acting Good,7,2,27-11-2023,Canada,The Comedy Network,episode07-411302-27112023-saison2-Acting-Good.html
+761,762,The Irrational,10,1,27-11-2023,Etats-Unis,NBC,episode10-409869-27112023-saison1-The-Irrational.html
+762,763,Found,9,1,28-11-2023,Etats-Unis,NBC,episode09-409900-28112023-saison1-Found.html
+763,764,Black Cake,7,1,29-11-2023,Etats-Unis,Hulu,episode07-410153-29112023-saison1-Black-Cake.html
+764,765,Magnum P.I. (2018),19,5,29-11-2023,Etats-Unis,NBC,episode19-410799-29112023-saison5-Magnum-PI-(2018).html
+765,766,Quantum Leap (2022),9,2,29-11-2023,Etats-Unis,NBC,episode09-411315-29112023-saison2-Quantum-Leap-(2022).html
+766,767,SurrealEstate,9,2,29-11-2023,Etats-Unis,Syfy,episode09-411103-29112023-saison2-SurrealEstate.html
+767,768,The Artful Dodger,1,1,29-11-2023,Etats-Unis,Disney+,episode01-411104-29112023-saison1-The-Artful-Dodger.html
+768,769,The Buccaneers (2023),6,1,29-11-2023,Etats-Unis,Apple TV+,episode06-409072-29112023-saison1-The-Buccaneers-(2023).html
+769,770,The Santa Clauses,5,2,29-11-2023,Etats-Unis,Disney+,episode05-410602-29112023-saison2-The-Santa-Clauses.html
+770,771,Family Law (CAN),1,3,30-11-2023,Canada,Global,episode01-410524-30112023-saison3-Family-Law-(CAN).html
+771,772,Family Law (CAN),2,3,30-11-2023,Canada,Global,episode02-410525-30112023-saison3-Family-Law-(CAN).html
+772,773,Family Law (CAN),3,3,30-11-2023,Canada,Global,episode03-410526-30112023-saison3-Family-Law-(CAN).html
+773,774,Family Law (CAN),4,3,30-11-2023,Canada,Global,episode04-410527-30112023-saison3-Family-Law-(CAN).html
+774,775,Family Law (CAN),5,3,30-11-2023,Canada,Global,episode05-410528-30112023-saison3-Family-Law-(CAN).html
+775,776,Family Law (CAN),6,3,30-11-2023,Canada,Global,episode06-410529-30112023-saison3-Family-Law-(CAN).html
+776,777,Family Law (CAN),7,3,30-11-2023,Canada,Global,episode07-410530-30112023-saison3-Family-Law-(CAN).html
+777,778,Family Law (CAN),8,3,30-11-2023,Canada,Global,episode08-410531-30112023-saison3-Family-Law-(CAN).html
+778,779,Family Law (CAN),9,3,30-11-2023,Canada,Global,episode09-410532-30112023-saison3-Family-Law-(CAN).html
+779,780,Family Law (CAN),10,3,30-11-2023,Canada,Global,episode10-410533-30112023-saison3-Family-Law-(CAN).html
+780,781,Frasier (2023),9,1,30-11-2023,Etats-Unis,Paramount+,episode09-409731-30112023-saison1-Frasier-(2023).html
+781,782,Julia (2022),5,2,30-11-2023,Etats-Unis,HBO Max,episode05-410540-30112023-saison2-Julia-(2022).html
+782,783,Obliterated,1,1,30-11-2023,Etats-Unis,Netflix,episode01-409739-30112023-saison1-Obliterated.html
+783,784,Obliterated,2,1,30-11-2023,Etats-Unis,Netflix,episode02-409740-30112023-saison1-Obliterated.html
+784,785,Obliterated,3,1,30-11-2023,Etats-Unis,Netflix,episode03-409741-30112023-saison1-Obliterated.html
+785,786,Obliterated,4,1,30-11-2023,Etats-Unis,Netflix,episode04-409742-30112023-saison1-Obliterated.html
+786,787,Obliterated,5,1,30-11-2023,Etats-Unis,Netflix,episode05-409743-30112023-saison1-Obliterated.html
+787,788,Obliterated,6,1,30-11-2023,Etats-Unis,Netflix,episode06-409744-30112023-saison1-Obliterated.html
+788,789,Obliterated,7,1,30-11-2023,Etats-Unis,Netflix,episode07-409745-30112023-saison1-Obliterated.html
+789,790,Obliterated,8,1,30-11-2023,Etats-Unis,Netflix,episode08-409746-30112023-saison1-Obliterated.html
+790,791,Rap Sh!t,5,2,30-11-2023,Etats-Unis,HBO Max,episode05-408171-30112023-saison2-Rap-Sht.html

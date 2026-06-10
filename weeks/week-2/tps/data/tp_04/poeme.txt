@@ -1,0 +1,3 @@
+Python est un langage clair.
+On apprend a lire et a ecrire des fichiers.
+Un fichier est une suite de lignes.

@@ -1,0 +1,21 @@
+# Projet Volonté du D
+- Scraping avec class Retriever
+- Processing des données avec Processor
+- Mécanisme d'alertes avec Alerter
+
+
+# Fichiers
+## Dépendances et environnement
+- `requirements.txt` : librairies nécessaires (`requests`, `bs4`), sans version épinglée
+- `runtime.txt` : version de Python cible (`python-3.13.1`)
+- `docs/setup_env.md` : guide d'installation (pyenv, venv, Black, git)
+
+## Code Python
+- `main.py` : Point d'entrée
+- `retriever.py`, `processor.py`, `alerter.py`  : Classes
+- `time_exec.py` : Mesure du temps d'exécution
+
+## Exercices et corrigé
+- `docs/README.md` : énoncé (prérequis, déroulé, exercices 1 et 2)
+- `corrige.ipynb` : corrigé de l'exercice 1 (équipages, personnages, techniques, avec clés étrangères)
+- `data/bdd.db` : base SQLite résultante (référence)

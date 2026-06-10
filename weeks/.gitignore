@@ -1,0 +1,19 @@
+# Dossier formateur : ressources internes (TODO, scripts, PDF), non visibles des élèves
+formateur/rdm
+
+# Originaux des TP week_02 avant découpage
+week_02/.archive/
+
+# Corrigés des projets (non commités)
+week_02/activeproject/corriges/
+week_02/smallproject/corrige.ipynb
+week_02/smallproject/data/bdd.db
+
+# Bases de données générées (régénérables, parfois volumineuses)
+*.db
+*.sqlite
+
+# Déchets Jupyter et Python
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

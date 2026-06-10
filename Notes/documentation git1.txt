@@ -1,0 +1,48 @@
+cd Desktop/cours
+mkdir git_step_by_step
+
+cd git_step_by_step
+
+git init
+ls -a
+touch file_1.txt   (creat file)
+(écrire dans le fichier: "echo: Bonjour" + save it 
+
+git add file_1.txt  (Ajout du fichier à l’index)
+git status *vérifier)
+
+*(Configuration de ton identité Git)
+git config --global user.name "marie-kilo"
+git config --global user.email "kilomarinette@gmail.com"
+
+
+
+*(Premier commit)
+git commit -m 'file created'
+
+*(Connexion au dépôt GitHub)
+git remote add origin https://github.com/marie-kilo/git_step_by_step.git
+
+*(Renommage de la branche master → main)
+git branch -M main
+
+*(Envoyer ton projet sur GitHub)
+git push -u origin main
+
+********************
+
+$ cd Desktop/cours/simplon-de-indiv/
+
+pwd
+git init
+git status
+git add .
+git commit -m "created"
+git branch -M main
+git remote add origin https://github.com/marie-kilo/simplon-de-indiv.git
+git push -u origin main
+
+*(pour suprimer tous) rm -rf .git
+
+
+
