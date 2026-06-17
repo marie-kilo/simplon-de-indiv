@@ -173,4 +173,49 @@ requests==2.34.2
 
 >>git add requirements.txt
 >>git commit -m "Added lib requests==2.34.2"
->> git push
+>>git push
+
+
+**************
+
+mkdir (nom de dossier) pour créer un dossier 
+
+git status
+		{Ton projet local = ton ordinateur}
+		{Ton remote = GitHub}
+git remote  	(# Voir les remotes configurés) il me donne : origin (Ton projet local est connecté à un dépôt GitHub nommé origin.)
+
+git remote -v   (Voir les URL des remotes):==>	origin  https://github.com/marie-kilo/mon-projet.git (fetch)
+					   ==>	origin  https://github.com/marie-kilo/mon-projet.git (push)
+						
+{fetch = d’où Git récupère les mises à jour}
+{push = où Git envoie ton code}
+
+git remote add orgigin "le lien vers le dossier sur mon github"   (Ajouter un remote)
+==>git remote add origin https://github.com/marie-kilo/mon-projet.git
+
+{Ça signifie :
+
+“Git, connecte ce dossier local à ce dépôt GitHub.”}
+
+
+git push -u origin main			(git push= Envoie mes commits vers GitHub)
+					(-u signifie set upstream.👉 Tu dis à Git :
+					“À partir de maintenant, ma branche locale main est liée à origin/main sur GitHub.”)
+					(origin= C’est le nom du remote, c’est‑à‑dire le dépôt GitHub auquel ton projet local est connecté.)
+					(main = C’est la branche que tu veux envoyer) il ya aussi (main , master , dev , feature/login ...)
+
+
+					
+cd cours 
+ks 
+ls 
+
+git clone https://github.com/marie-kilo/mon-projet.git
+
+
+git fetch — Récupère les nouveautés, mais ne touche pas à ton code
+git log origin/main  (Tu vois les nouveaux commits, mais ton code reste intact.)
+git diff main origin/main   (Pour voir les différences avant de fusionner.)
+
+git pull — Récupère + fusionne automatiquement
