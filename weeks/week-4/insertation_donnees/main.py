@@ -8,7 +8,7 @@ from sqlalchemy import create_engine
 import pandas as pd
 
 # 1000 / 100 000 / 1 000 000
-data_size = 1000000
+data_size = 1000
 # liste du temps d'execution de chaque methode
 
 def main():
@@ -44,7 +44,9 @@ def main():
     method6 = []
     method7 = []
     method8 = []
-    
+    method9 = []
+
+
     for j in range(10):
         """
         # Tester la methode 1
@@ -141,6 +143,19 @@ def main():
         cars_table.insert_cars_with_pandas_to_sql_multi(df, engine)
         end = time.perf_counter()
         method8.append(end - start)
+
+        #################################################
+
+        cars_table.delete_cars_table()
+        cars_table.create_table_cars()
+
+        #Tester la methode 9
+        #################################################
+        start = time.perf_counter()
+        cars_table.insert_cars_with_pandas_callable(df, engine)
+        end = time.perf_counter()
+        method9.append(end - start)
+
         
    # print(f"temps d'execution methode 1: {round(median(method1), 3)} seconds")
     #print(f"temps d'execution methode 2: {round(median(method2), 3)} seconds")
@@ -150,7 +165,7 @@ def main():
     print(f"temps d'execution methode 6: {round(median(method6), 3)} seconds")
     print(f"temps d'execution methode 7: {round(median(method7), 3)} seconds")
     print(f"temps d'execution methode 8: {round(median(method8), 3)} seconds")
-
+    print(f"temps d'execution methode 9: {round(median(method9), 3)} seconds")
     
     #print(f"temps d'execution methode : {end - start:.3f} seconds")
     #print(f"nombre des lignes: {cars_table.count_cars()}\n")

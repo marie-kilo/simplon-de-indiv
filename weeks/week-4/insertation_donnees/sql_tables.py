@@ -2,7 +2,7 @@ import psycopg2
 import psycopg2.extras
 from io import StringIO
 import pandas as pd
-from sqlalchemy import create_engine
+from sqlalchemy.dialects.postgresql import insert
 
 class CarsDatabase:
     def __init__(self, user, password):
@@ -83,6 +83,7 @@ class Cars:
                         (make, model, price, fabrication_date)
                         Values (%s, %s, %s, %s); 
                     """, car)
+        
                             
     def insert_many_cars(self, cars_list):
         
@@ -161,3 +162,20 @@ class Cars:
             method="multi",
             chunksize=500
         )
+    
+    def insert_cars_with_pandas_callable(self, cars_df, engine):
+
+        def insert_on_conflict_nothing(table, conn, keys, data_iter):
+            # "a" is the primary key in "conflict_table"
+            data = [dict(zip(keys, row)) for row in data_iter]
+            stmt = insert(table.table).values(data).on_conflict_do_nothing(index_elements=["id"])
+            result = conn.execute(stmt)
+            return result.rowcount
+
+        cars_df.to_sql(
+            name="cars",
+            con = engine,
+            if_exists="append",
+            index=False,
+            method=insert_on_conflict_nothing
+            )
