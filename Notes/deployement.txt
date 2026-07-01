@@ -1,0 +1,90 @@
+1- créer une compte Scalingo : https://auth.scalingo.com/users/sign_up
+2- avoir git bach (déjà fait) 
+3- CLI Scalingo ( Command Line Interface)
+4- créer une clée SSH (ou réutiliser):
+	a.copier
+	b.ajouter sur le Dashboard Scalingo
+5- Se connecter via CLI 
+
+resources: https://doc.scalingo.com/platform/getting-started/setup-ssh-windows
+
+dans GIT BASH:
+***************
+1. Check if you already have an available SSH key:
+ls $HOME/.ssh
+
+2. Create a new SSH key pair:
+
+$ cd $HOME
+$ mkdir -p ~/.ssh
+$ cd .ssh
+$ ssh-keygen.exe -t ed25519 (après appuier ENTER, ENTER)
+( created private et public keys)
+
+ls (pour vérifier)
+id_ed25519 id_ed25519.pub  (ce sont mon clées public et privé)
+
+**********
+
+3. Add the public SSH key to Scalingo: lien: https://dashboard.scalingo.com/account/keys
+then click : add :
+et dans git bash :cat $HOME/.ssh/id_ed25519.pub
+then: copy le ssh qui est dans git: 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFT9XfI0/aMVt4mh3lUYfAz+Er5mlWVEpRlSXZIKB5Ca marieantoinettekilo
+
+et copier dans:https://dashboard.scalingo.com/account/keys:
+ SSH public key dans scalingo.
+
+****************************
+
+CLI: https://doc.scalingo.com/tools/cli/start
+on download scalingo.exe et met le fichier dans programme
+dans bash:
+$ export PATH=$PATH:/c/Program\ Files/
+scalingo.exe   (pour vérifier)
+
+$ scalingo login
+on ajout username ou email et le password pour scalingo
+mariea.kilo ou mariantoinettekilo@gmail.com
+
+1)*********creat application in scalingo: (déployer une application)
+App name (required)
+application1...creat
+
+2)*********** Deployer un premier script 
+*créer une dossier (scalongo1)
+créer des fichiers:
+.python-version ===> 3.14.5
+script.py ====> print("Hello, Scalingo!")
+requirments.txt
+Prcfile ====> web: python script.py
+
+ouvrir une nouvelle terminal:powershell
+git init
+git add .
+git commit -m "first commit"
+
+on est ici==>> PS C:\Users\Utilisateur\Desktop\cours\scalingo1> 
+
+git remote add production git@ssh.osc-fr1.scalingo.com:application1.git  (le lien de repository dans scalingo)
+
+ git push --set-upstream production master	(first time) et après (git push production)
+
+************************
+dans scalingo add_new-addond===>postgreQSL
+************************
+script.py===>>
+
+import os
+
+print(os.environ.get("DATABASE_URL", "valeur_par_defaut"))
+
+git add .
+git commit -m"first commit"
+git push
+
+
+on peut vérifier dans logs of application dans scalingo
+
+
+
