@@ -57,7 +57,7 @@ créer des fichiers:
 .python-version ===> 3.14.5
 script.py ====> print("Hello, Scalingo!")
 requirments.txt
-Prcfile ====> web: python script.py
+Procfile ====> web: python script.py
 
 ouvrir une nouvelle terminal:powershell
 git init
@@ -86,5 +86,43 @@ git push
 
 on peut vérifier dans logs of application dans scalingo
 
+***********************
+corrige0:==>>
+dans load:
 
+DB_URL = os.environ.get("DATABASE_URL", "dbname=megabase0")
+
+web: python3 -c "import http.server, os; http.server.HTTPServer(('0.0.0.0', int(os.environ.get('PORT', 8080))), http.server.BaseHTTPRequestHandler).serve_forever()"
+worker: python main.py 69
+git add .
+git commit -m"first commit"
+git push production marie/01-07-2026:master
+****************
+
+*Pour s'arrêter l
+====> Containers
+====> Manage containers:
+met worker : 0 ==> scale
+(worker :1 ==> pour l'executer)
+
+Addon: Postgres Dashboard:
+setting:
+Internet access
+Force TLS connections  click: Enable 
+
+dans l'application corrige0: ===> envirenement:
+
+SCALINGO_POSTGRESQL_URL = postgres://corrige0_6027:8GF_yOig_l_QC1RHn2QYDAswDE7pbD7c_RVtBXUkXWZPp1ipTnbZ9ZeLJ1jzfG8D@corrige0-6027.postgresql.c.osc-fr1.scalingo-dbs.com:34644/corrige0_6027?sslmode=prefer
+*********************==>
+dans pgAdmin:
+sur Servers: registre server:
+le nom de server : corrige0_scaling (le nom de server qu'on veut)
+
+==> connection: (ajoute: SCALINGO_POSTGRESQL_UR)
+-----------------------------------------------------------------------
+Host name/adress: corrige0-6027.postgresql.c.osc-fr1.scalingo-dbs.com
+port : 34644
+Maintenance database: corrige0_6027
+Username: corrige0_6027
+Password:8GF_yOig_l_QC1RHn2QYDAswDE7pbD7c_RVtBXUkXWZPp1ipTnbZ9ZeLJ1jzfG8D
 
