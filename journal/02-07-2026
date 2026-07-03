@@ -1,0 +1,14 @@
+## 1. Qu’est‑ce que j’ai produit hier ?
+- Hier, Sur le dashboard Scalingo, J'ai créé une **nouvelle application**  (corrige0), et attaché l'**addon PostgreSQL** et j'ai deployé mon projet corrige0 qui a la source festifals au debut j'ai adapté la connection avec Scalingo ,et fait une petite teste et deployé script.py et après j'ai deployé le main de mon projet corrige0 avec un seul departement, et après j'ai fait une fichier run_all.py pour toute la France. puis j'ai deployé les gares et les btp pour toute la france. passé le worker à **0 conteneur**
+- j'ai verifié les resultats dans postgres PgAdmin et créé un une database Scalingo avec un nouveau serveur , faire des requettes count(*).
+- Continué sur le briefs 04 les requettes analytiques. 2-3 ,3-1, 3-2,, 4-1-, 4-2.
+
+
+## 2. Où est‑ce que j’ai bloqué, et comment je m’en suis sortie ?
+le deployement était simple sans blockage. mais le soir j'ai vu que j'ai  téléchargé en local le btp pour un seul departement. donc je voulais lancer pour toute la France.et j'ai comparé le count(*) local avec scalingo, donc j'ai pas eu la même nombre!, j'ai fait drop pour btp et rééxuté, ça dubliqué le total, j'ai essayé plusieur solutions même j'ai démaré le schema de tableau de btp pour avoir les contraintes et le Pk. à chaque fois j'ai eu un total diferent.
+## 3. Qu’est‑ce que je referais autrement si je recommençais ?
+tous vas bien sauf le btp mais c'est pas demandé dans le brief.
+
+## 4. Qu’est‑ce qui reste flou ?
+j'avais un fichier .pyton version pour mon projet en local qui contient 3.14.2 , et pour scalingo 3.14.5 donc 2 difchiers et j'ai essayé de travaillé avec un seul version et ça va pas fonctionné avec moi , j'ai besoin de comment il faut fait si on va besoin de travaillé en local et en Scalingo dans le même projet.
+
