@@ -2,7 +2,7 @@
 - J'ai continué le brief 04 sur les requettes analytiques et j'ai relancé après la vérifications de chaque requette.
 - J'ai vérifié le brief 06, et commancé le brief 07 sur l'entrepot; 
 - j'ai créé le fichier 'entrepot.sql': créé 3 tables avec TRANCATE et inseré les données et relancé 2 fois au debut avec psql et après avec un fichier run_sql.py, et verifié les resultats avec count(*) , et dans PgAdmin.
-- j'ai créé le fichier 'analyse_etoile.sql': créé 3 requette analytics avec les comments la comperasition des requettes analyses.sql et relancé avec le fichier run_sql.py et avec psql 2 fois.
+- j'ai créé le fichier 'analyse_etoile.sql': créé 3 requette analytics avec les comments la comparesion des requettes analyses.sql et relancé avec le fichier run_sql.py et avec psql 2 fois.
 
 
 ## 2. Où est‑ce que j’ai bloqué, et comment je m’en suis sortie ?
