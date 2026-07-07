@@ -59,7 +59,7 @@ script.py ====> print("Hello, Scalingo!")
 requirments.txt
 Procfile ====> web: python script.py
 
-ouvrir une nouvelle terminal:powershell
+3)*********ouvrir une nouvelle terminal: PowerShell
 git init
 git add .
 git commit -m "first commit"
@@ -87,12 +87,16 @@ git push
 on peut vérifier dans logs of application dans scalingo
 
 ***********************
-corrige0:==>>
+********
+Projet: corrige0:==>>
+*******************
 dans load:
 
 DB_URL = os.environ.get("DATABASE_URL", "dbname=megabase0")
 
-web: python3 -c "import http.server, os; http.server.HTTPServer(('0.0.0.0', int(os.environ.get('PORT', 8080))), http.server.BaseHTTPRequestHandler).serve_forever()"
+dans Procfile:==>
+*************
+web: python -c "import http.server, os; http.server.HTTPServer(('0.0.0.0', int(os.environ.get('PORT', 8080))), http.server.BaseHTTPRequestHandler).serve_forever()"
 worker: python main.py 69
 git add .
 git commit -m"first commit"
