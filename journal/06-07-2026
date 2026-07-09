@@ -1,10 +1,11 @@
 ## 1. Qu’est‑ce que j’ai produit hier ?
-- j'ai fai le dossier 10 scripts; donc j'ai executé tous les fichiers sauf les fichier de Scalingo.
-- J'ai fait les requettes analytiques N.4 et le bonus.
+- J'ai travaillé sur les requettes analytiques numerà 4 et le bonus.
+- On a integré une nouvelle source dans le projet corrige0, n'est pas open data , api des ventes d'immobiliers , j'ai trouvé les liens du csv fichiers pour toutes la France , et par departement.
+- j'ai créé le schema du tableau , jusqu'à l'insertion du données (avec erreur à resoudre demain)
 
 
 ## 2. Où est‑ce que j’ai bloqué, et comment je m’en suis sortie ?
-sans blockage
+insertion du données 
 
 ## 3. Qu’est‑ce que je referais autrement si je recommençais ?
 tous vas bien
