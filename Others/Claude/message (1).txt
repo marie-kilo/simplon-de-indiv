@@ -1,0 +1,18 @@
+Everything checks out — same message format and exit-code behavior as your original for the default/dept-selection scenarios, and consistent relative ordering for both workers. Here's the refactored file and a matching Procfile.
+
+A exécuté une commande, lu un fichier
+A exécuté une commande, lu un fichier
+
+How it works:
+
+SCRIPTS stays the single source of truth for ordering. Both workers just filter it ([s for s in SCRIPTS if s in WORKER_SCRIPTS[worker]]), so the relative order of scripts is derived, never duplicated — impossible for the three scenarios to drift apart.
+parse_args checks only argv[0]: if it's a/b (case-insensitive) that's the worker, everything else is treated as département codes exactly as before. So:
+python run_all.py / python run_all.py 69 01 → unchanged, all 4 scripts, identical output text.
+python run_all.py a / python run_all.py a 69 01 → reseau_eau.py, qualite_eau.py.
+python run_all.py b / python run_all.py b 69 01 → geo_risque.py, dvf.py.
+Département iteration order is untouched (given order, or DEPARTEMENTS order by default).
+Exit codes (0/1) and the échec-collection logic are unchanged; I only appended (worker a)/(worker b) to the summary line when a worker is active — the no-worker message is byte-for-byte what you had.
+
+I tested this with stub collector scripts standing in for your four: verified dept-outer/script-inner ordering for full mode, worker a, worker b, and that a failure still produces exit code 1 with the right échec list.
+
+One thing worth flagging since you're targeting Scalingo worker process types: those are meant for long-running processes. run_all.py runs once over all 101 départements and then exits — Scalingo will likely consider that a crash and restart the process repeatedly (behavior depends on your app's restart policy), which could mean workera/workerb loop through all départements over and over rather than running once. If you want a single pass per deploy, a scheduled/one-off task (or a cron-style Scalingo addon) might fit better than a worker process type — happy to adjust if that's a concern.

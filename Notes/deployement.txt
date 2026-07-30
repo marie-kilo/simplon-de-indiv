@@ -44,6 +44,8 @@ $ export PATH=$PATH:/c/Program\ Files/
 scalingo.exe   (pour vérifier)
 
 $ scalingo login
+***********************
+
 on ajout username ou email et le password pour scalingo
 mariea.kilo ou mariantoinettekilo@gmail.com
 
@@ -137,4 +139,7 @@ dans PowerShell:
 
 PS C:\Users\Utilisateur\Desktop\cours\anonymos\groupe-sources>scalingo.exe --app les-anonymous run bash
 
-
+*********************
+DATABASE_URL= postgresql+psycopg2://postgres:Mkilo1990@localhost:5432/megabase0
+DB_URL=postgresql://postgres:Mkilo1990@localhost:5432/megabase0
+*****************************

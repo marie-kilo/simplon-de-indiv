@@ -155,3 +155,31 @@ atc_code → 4 valeurs seulement
 Un 'SKU' (Stock Keeping Unit):
 est un identifiant unique attribué à chaque produit
 ou variante d'un produit pour faciliter la gestion des stocks.
+
+
+
+*****************************************************
+vetprice=# SELECT site, COUNT(*) FROM product GROUP BY site;
+   site    | count                                                                                                                                                               
+-----------+-------
+ chronovet |  2644
+(1 row)
+
+
+vetprice=# SELECT scraped_at::date, COUNT(*) FROM price_fact GROUP BY scraped_at::date;
+ scraped_at | count                                                                                                                                                              
+------------+-------
+ 2026-04-01 |  3262
+ 2026-07-12 |  5050
+ 2026-07-18 |  4904
+(3 rows)
+
+
+vetprice=# SELECT ean, COUNT(*) 
+vetprice-# FROM product 
+vetprice-# GROUP BY ean 
+vetprice-# HAVING COUNT(*) > 1;
+ ean | count                                                                                                                                                                     
+-----+-------
+     |     3
+(1 row)

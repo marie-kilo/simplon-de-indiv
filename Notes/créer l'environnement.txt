@@ -1,0 +1,19 @@
+créer l'environnement:
+~/.pyenv/pyenv-win/versions/3.14.2/python.exe -m venv env 
+
+l'activé:
+env/Scripts/activate
+
+si il en a pas:
+python.exe -m pip install
+
+* install requirements:
+pip install -r requirements.txt
+
+code .gitignore
+(+ save it)
+
+pip install requests
+pip install psycopg2-binary
+..
+

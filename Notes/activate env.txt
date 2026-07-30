@@ -4,9 +4,11 @@
 
 2. Activer l'envirenement:
 ==>
-env\Scripts\activate
+env\Scripts\activate			(POWERSHALL)													
 
 3.Installer les independences(les libraries):
+
+python -m pip install --upgrade pip   
 
 ==> pip install -r .\requirements.txt
 
@@ -16,7 +18,7 @@ pyenv install 3.14.5
 
 pyenv local 3.14.5
 
-python -m venv .env
+python -m venv env
 
 ..env\Scripts\Activate.ps1 ou .env\Scripts\activate
 
@@ -59,3 +61,7 @@ python main.py 69
 
 
 dir pour vérifier
+
+DATABASE_URL= postgresql+psycopg2://postgres:Mkilo1990@localhost:5432/megabase0
+DB_URL=postgresql://postgres:Mkilo1990@localhost:5432/megabase0
+
