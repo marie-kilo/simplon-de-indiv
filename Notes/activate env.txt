@@ -1,6 +1,7 @@
 1. créer d'envirenement virtuel pour le projet:
 ==>
  ~/.pyenv/pyenv-win/versions/3.14.2/python.exe -m venv env   (Windows)
+ou ( ~/.pyenv/pyenv-win/versions/3.12.3/python.exe -m venv env )-----------> si il ya psycopg2-binary 2.9.9 --> (Python 3.12)
 
 2. Activer l'envirenement:
 ==>
@@ -60,7 +61,7 @@ python main.py 69
 ***********
 
 
-dir pour vérifier
+"dir" pour vérifier
 
 DATABASE_URL= postgresql+psycopg2://postgres:Mkilo1990@localhost:5432/megabase0
 DB_URL=postgresql://postgres:Mkilo1990@localhost:5432/megabase0
